@@ -15,7 +15,7 @@ Welkom!\n
 Bij ons Dashboard over onze eindpresenatie als alles lukt in ieder geval....
 \n
 """)
-st.sidebar.title("Navigation")
+st.sidebar.title("Kies inspectie")
 nav = st.sidebar.radio(label="", options=["Histogram", "Boxplot", "Spreidingsdiagram", "Correlatie Matrix", "Kaart"])
 
 
@@ -145,12 +145,12 @@ elif nav == "Spreidingsdiagram":
 
 
   #Dropdown buttons
-  dropdown_buttons = [{'label':"Luchthavens NL", 'method':"update", 'args':[{"visible":[True, True, True, True, True]}]},
-                      {'label':"Amsterdam Airport Schiphol", 'method':"update", 'args':[{"visible":[True, False, False, False, False]}]},
-                      {'label':"Rotterdam The Hague Airport", 'method':"update", 'args':[{"visible":[False, True, False, False, False]}]},
-                      {'label':"Eindhoven Airport", 'method':"update", 'args':[{"visible":[False, False, True, False, False]}]}, 
-                      {'label':"Maastricht Aachen Airport", 'method':"update", 'args':[{"visible":[False, False, False, True, False]}]}, 
-                      {'label':"Groningen Airport Eelde", 'method':"update", 'args':[{"visible":[False, False, False, False, True]}]}]
+  dropdown_buttons = [{'label':"Luchthavens NL", 'method':"update", 'args':[{"visible":[True, True, True, True, True, True]}]},
+                      {'label':"Amsterdam Airport Schiphol", 'method':"update", 'args':[{"visible":[True, False, False, False, False, True]}]},
+                      {'label':"Rotterdam The Hague Airport", 'method':"update", 'args':[{"visible":[False, True, False, False, False, True]}]},
+                      {'label':"Eindhoven Airport", 'method':"update", 'args':[{"visible":[False, False, True, False, False, True]}]}, 
+                      {'label':"Maastricht Aachen Airport", 'method':"update", 'args':[{"visible":[False, False, False, True, False, True]}]}, 
+                      {'label':"Groningen Airport Eelde", 'method':"update", 'args':[{"visible":[False, False, False, False, True, True]}]}]
 
   # #Update de figuur
   fig5.update_layout({'updatemenus':[{'active':0, 'buttons':dropdown_buttons}]})
