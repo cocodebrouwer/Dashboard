@@ -22,6 +22,7 @@ nav = st.sidebar.radio(label="", options=["Histogram", "Boxplot", "Spreidingsdia
 if nav == "Histogram":
   
   y = st.radio(label="", options=["Totaal aantal vluchten", "Totaal aantal passagiers"])
+  title = st.radio(label="", options=["Totaal aantal vluchten Nederlandse luchthavens 2019-2021", "Totaal aantal passagiers Nederlandse luchthavens 2019-2021"])
   
   #Code voor interactieve barplot met plotly.express
   CBS = pd.read_csv('CBS_streamlit.csv')
@@ -50,37 +51,6 @@ if nav == "Histogram":
 
   #Laat de figuur zien
   st.plotly_chart(fig1)
-
-#-----------------------------------------------------------------------------
-
-
-  #Code voor interactieve barplot met plotly.express
-  fig2 = px.bar(CBS, 
-                x = "Periode", 
-                y = "Totaal aantal passagiers", 
-                color = "Luchthaven", 
-                hover_name = "Luchthaven",
-                labels = {'Periode':'Datum'},
-                opacity = 0.5,
-                title = 'Totaal aantal passagiers Nederlandse luchthavens 2019-2021')
-
-  #Dropdown buttons
-  dropdown_buttons = [{'label':"Luchthavens NL", 'method':"update", 'args':[{"visible":[True, True, True, True, True]}]},
-                      {'label':"Amsterdam Airport Schiphol", 'method':"update", 'args':[{"visible":[True, False, False, False, False]}]},
-                      {'label':"Rotterdam The Hague Airport", 'method':"update", 'args':[{"visible":[False, True, False, False, False]}]},
-                      {'label':"Eindhoven Airport", 'method':"update", 'args':[{"visible":[False, False, True, False, False]}]}, 
-                      {'label':"Maastricht Aachen Airport", 'method':"update", 'args':[{"visible":[False, False, False, True, False]}]}, 
-                      {'label':"Groningen Airport Eelde", 'method':"update", 'args':[{"visible":[False, False, False, False, True]}]}]
-
-  #Update de figuur
-  fig2.update_layout({'updatemenus':[{'active':0, 'buttons':dropdown_buttons}]})
-
-  #Draai de x-as labels
-  fig2.update_xaxes(tickangle = 45)
-
-  #Laat de figuur zien
-  st.plotly_chart(fig2)
-
 
 
 #-----------------------------------------------------------------------------
