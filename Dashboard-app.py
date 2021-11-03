@@ -5,6 +5,7 @@ import numpy as np
 import plotly.express as px
 import plotly.graph_objects as go
 import statsmodels.api as sm
+import seaborn as sn
 
 st.title("✈️ Dashboard Eindpresentatie ✈️")
 
@@ -182,7 +183,7 @@ st.plotly_chart()
 
 
 data3 = pd.read_csv('data_merge_streamlit.csv')
-fig8 = px.scatter_geo(data_frame = data3, 
+fig6 = px.scatter_geo(data_frame = data3, 
                lat = 'LAT', 
                lon = 'LNG', 
                hover_name = 'Luchthaven', 
@@ -200,4 +201,4 @@ fig8 = px.scatter_geo(data_frame = data3,
                title = 'Nederlandse luchthavens en COVID-19', 
                fitbounds = 'locations', 
                size_max = 100)
-st.plotly_chart(fig8)
+st.plotly_chart(fig6)
