@@ -174,5 +174,5 @@ elif nav == "Kaart":
                  title = 'Nederlandse luchthavens en COVID-19', 
                  fitbounds = 'locations', 
                  size_max = 100)
-  fig7.update_layout(transition = {'duration': 1000})
+  fig7.update_layout(transition = {'duration': 10000})
   st.plotly_chart(fig7)
