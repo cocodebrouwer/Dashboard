@@ -176,7 +176,7 @@ sns.heatmap(corrMatrix,
            linecolor = 'white', 
            square = True)
 plt.title('Schiphol en sterftecijfers 2020-2021')
-st.plotly_chart()
+st.pyplot()
 
 
 
