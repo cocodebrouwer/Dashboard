@@ -7,7 +7,7 @@ import plotly.graph_objects as go
 import statsmodels.api as sm
 import seaborn as sns
 
-st.title("✈️ Dashboard Eindpresentatie ✈️")
+st.title("✈️ Nederlandse luchthavens en COVID-19 ✈️")
 
 st.markdown("""
 Welkom!\n
