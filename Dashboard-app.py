@@ -139,7 +139,7 @@ st.plotly_chart(fig4)
 data1 = pd.read_csv('data_streamlit.csv')
 fig5 = px.scatter(data1, x = "Totaal aantal overledenen", y = "Totaal aantal vluchten", 
                   hover_name = "Periode",title = 'Nederlandse luchthavens en sterftecijfers 2020-2021', size = "Totaal aantal passagiers", 
-                  color="Luchthaven", opacity = 0.5)
+                  color="Luchthaven", opacity = 0.5, size_max=60)
                   
 #                   size = "Totaal aantal passagiers", 
 #                   hover_name = "Periode",color = "Luchthaven",  opacity = 0.5, size_max = 60,trendline = 'ols')
