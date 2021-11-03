@@ -46,7 +46,7 @@ fig1.update_layout({'updatemenus':[{'active':0, 'buttons':dropdown_buttons}]})
 fig1.update_xaxes(tickangle = 45)
 
 #Laat de figuur zien
-fig1.show()
+st.plotly_chart(fig1)
 
 
 
