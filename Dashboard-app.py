@@ -33,7 +33,7 @@ if nav == "Histogram":
                 hover_name = "Luchthaven",
                 labels = {'Periode':'Datum'},
                 opacity = 0.5,
-                title = 'Totaal aantal vluchten Nederlandse luchthavens 2019-2021')
+                title = title)
 
   #Dropdown buttons
   dropdown_buttons = [{'label':"Luchthavens NL", 'method':"update", 'args':[{"visible":[True, True, True, True, True]}]},
