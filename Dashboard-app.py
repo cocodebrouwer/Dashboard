@@ -16,10 +16,10 @@ Bij ons Dashboard over onze eindpresenatie als alles lukt in ieder geval....
 \n
 """)
 st.sidebar.title("Navigation")
-nav = st.sidebar.radio(label="", options=["Barplot", "Boxplot", "scatterplot", "correlatie", "kaart"])
+nav = st.sidebar.radio(label="", options=["Histogram", "Boxplot", "Spreidingsdiagram", "Correlatie Matrix", "Kaart"])
 
 
-if nav == "Barplot":
+if nav == "Histogram":
   
   #Code voor interactieve barplot met plotly.express
   CBS = pd.read_csv('CBS_streamlit.csv')
@@ -84,6 +84,7 @@ if nav == "Barplot":
 #-----------------------------------------------------------------------------
 
 elif nav == "Boxplot":
+  CBS = pd.read_csv('CBS_streamlit.csv')
   #Code voor interactieve boxplot met plotly.express
   fig3 = px.box(CBS, 
                 x = 'Luchthaven', 
@@ -135,7 +136,7 @@ elif nav == "Boxplot":
 
 #-----------------------------------------------------------------------------
 
-elif nav == "scatterplot":
+elif nav == "Spreidingsdiagram":
   #Code voor interactieve scatterplot met plotly.express
   data1 = pd.read_csv('data_streamlit.csv')
   fig5 = px.scatter(data1, x = "Totaal aantal overledenen", y = "Totaal aantal vluchten", 
@@ -160,7 +161,7 @@ elif nav == "scatterplot":
 
 #-----------------------------------------------------------------------------
 
-elif nav == "correlatie":
+elif nav == "Correlatie Matrix":
   #Code voor correlatie matrix 
   data2 = data1[data1['Luchthaven'] == 'Amsterdam Airport Schiphol']
   data_corr = data2[['Totaal aantal vluchten', 
@@ -181,7 +182,7 @@ elif nav == "correlatie":
 
 
 #-----------------------------------------------------------------------------
-elif nav == "kaart":
+elif nav == "Kaart":
   data3 = pd.read_csv('data_merge_streamlit.csv')
   fig7 = px.scatter_geo(data_frame = data3, 
                  lat = 'LAT', 
