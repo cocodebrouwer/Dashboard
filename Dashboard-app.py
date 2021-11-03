@@ -26,6 +26,7 @@ De kaart geeft een samenvattend beeld van de bedrijvigheid van de luchthavens ti
 \n
 Veel plezier met het bekijken van ons interactieve Dashboard en het uitproberen van de verschillende keuzemogelijkheden!
 \n
+----------
 """)
 
 #Kies inspectie
