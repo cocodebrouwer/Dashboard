@@ -201,6 +201,25 @@ elif nav == "Correlatie Matrix":
 #--------------------
 #Code voor kaart
 elif nav == "Kaart":
+  
+  #Tekst toevoegen
+  st.markdown("""
+  De kaart geeft een samenvattend beeld van de bedrijvigheid van de luchthavens tijdens de verschillende ontwikkelingen van COVID-19 weer. 
+  Op de kaart zijn de verschillende luchthavens te zien en de grootte van de cirkels staan in verband 
+  
+  
+  In de boxplot wordt het aantal vluchten of passagiers van 2019 tot en met 2021 weergeven. 
+  Opvallend zijn de minimale waardes en de grote uiteenligging van de waardes in de boxplots van de verschillende luchthavens. 
+  Ook dit is te verklaren aan de hand van de heersende pandemie in Nederland. 
+  De ontwikkelingen van COVID-19 veroorzaken grote schommelingen in de drukte van de luchthavens. 
+  \n
+  Met behulp van het keuzemenu kan de soort activiteit geselecteerd worden. 
+  """)
+  
+  y = st.radio(label = "Kies gewenste activiteit:", 
+               options = ["Totaal aantal vluchten", "Totaal aantal aangekomen vluchten", "Totaal aantal vertrokken vluchten", "Totaal aantal passagiers", 
+                          "Totaal aantal aangekomen passagiers", "Totaal aantal vertrokken passagiers"])
+  
   data3 = pd.read_csv('data_merge_streamlit.csv')
   fig7 = px.scatter_geo(data_frame = data3,
                         lat = 'LAT', 
@@ -211,7 +230,7 @@ elif nav == "Kaart":
                         projection = 'natural earth', 
                         scope = 'europe', 
                         color = 'Luchthaven', 
-                        size = 'Totaal aantal vluchten', 
+                        size = y, 
                         animation_frame = 'Maatregelen', 
                         opacity = 0.2, 
                         color_discrete_map = {'Amsterdam Airport Schiphol': 'Blue', 'Rotterdam The Hague Airport': 'Red', 'Eindhoven Airport': 'Green', 
