@@ -235,12 +235,11 @@ elif nav == "Kaart":
   st.plotly_chart(fig7)
   
   #--------------------
-  #Code voor bronnenlijst  
-  if nav == "Bronnenlijst":
-  
-    #Tekst toevoegen
-    st.markdown("""
-    Dit zijn de bronnen die wij gebruikt hebben voor de totstandkoming van dit Dashboard: 
-    - CBS Statline. (z.d.). CBS StatLine. Geraadpleegd op 3 november 2021, van https://opendata.cbs.nl/#/CBS/nl/dataset/37478hvv/table
-    - Tijdlijn van maatregelen voor bestrijding COVID-19. (z.d.). RIVM. Geraadpleegd op 3 november 2021, van https://www.rivm.nl/gedragsonderzoek/tijdlijn-maatregelen-covid
-    """)
+#Tekst toevoegen
+st.markdown("""
+----------
+\n
+Dit zijn de bronnen die wij gebruikt hebben voor de totstandkoming van dit Dashboard: 
+- CBS Statline. (z.d.). CBS StatLine. Geraadpleegd op 3 november 2021, van https://opendata.cbs.nl/#/CBS/nl/dataset/37478hvv/table
+- Tijdlijn van maatregelen voor bestrijding COVID-19. (z.d.). RIVM. Geraadpleegd op 3 november 2021, van https://www.rivm.nl/gedragsonderzoek/tijdlijn-maatregelen-covid
+""") 
