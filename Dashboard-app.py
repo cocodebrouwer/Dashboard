@@ -16,7 +16,10 @@ Bij ons Dashboard over onze eindpresenatie als alles lukt in ieder geval....
 st.sidebar.title("Luchthaven")
 language = st.sidebar.radio(label="", options=["Schiphol", "Maastricht"])
 
--------------------------------------------------
+
+
+
+
 #Code voor interactieve barplot met plotly.express
 CBS = pd.read_csv('CBS_streamlit.csv')
 fig1 = px.bar(CBS, 
@@ -45,7 +48,10 @@ fig1.update_xaxes(tickangle = 45)
 #Laat de figuur zien
 fig1.show()
 
-------------------------------------------------------------------
+
+
+
+
 #Code voor interactieve barplot met plotly.express
 fig2 = px.bar(CBS, 
               x = "Periode", 
@@ -73,7 +79,9 @@ fig2.update_xaxes(tickangle = 45)
 #Laat de figuur zien
 fig2.show()
 
-----------------------------------------------------------------
+
+
+
 
 #Code voor interactieve boxplot met plotly.express
 fig3 = px.box(CBS, 
@@ -97,7 +105,9 @@ fig3.update_layout({'updatemenus':[{'active':0, 'buttons':dropdown_buttons}]})
 #Laat de figuur zien
 fig3.show()
 
---------------------------------------------------------------
+
+
+
 
 #Code voor interactieve boxplot met plotly.express
 fig4 = px.box(CBS, 
@@ -121,7 +131,9 @@ fig4.update_layout({'updatemenus':[{'active':0, 'buttons':dropdown_buttons}]})
 #Laat de figuur zien
 fig4.show()
 
-------------------------------------------------------------
+
+
+
 
 #Code voor interactieve scatterplot met plotly.express
 data1 = pd.read_csv('data_streamlit.csv')
@@ -151,7 +163,9 @@ fig5.update_layout({'updatemenus':[{'active':0, 'buttons':dropdown_buttons}]})
 #Laat de figuur zien
 fig5.show()
 
-----------------------------------------------
+
+
+
 
 #Code voor correlatie matrix 
 data2 = data1[data1['Luchthaven'] == 'Amsterdam Airport Schiphol']
@@ -169,7 +183,9 @@ sn.heatmap(corrMatrix,
 plt.title('Schiphol en sterftecijfers 2020-2021')
 plt.show()
 
---------------------------------------------
+
+
+
 
 data3 = pd.read_csv('data_merge_streamlit.csv')
 px.scatter_geo(data_frame = data3, 
