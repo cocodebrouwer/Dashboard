@@ -125,7 +125,7 @@ elif nav == "Spreidingsdiagram":
   
   #Tekst toevoegen
   st.markdown("""
-  In het spreidingsdiagram wordt het aantal vluchten of passagiers uitgezet tegen het aantal overledenen van 2019 tot en met 2021 weergeven. 
+  In het spreidingsdiagram wordt het aantal vluchten of passagiers uitgezet tegen het aantal overledenen in 2020 en 2021 weergeven. 
   Het diagram bevat een algehele trendline die voor alle Nederlandse luchthaven samen geldt. 
   De trendline heeft een negatief verloop wat tevens ook naar verwachting is. 
   Hieruit valt te concluderen dat tijdens de pandemie minder mensen gebruik hebben gemaakt van de luchthavens dan gebruikelijk. 
@@ -168,6 +168,15 @@ elif nav == "Spreidingsdiagram":
 #--------------------
 #Code voor correlatie matrix met keuze menu
 elif nav == "Correlatie Matrix":
+  
+  #Tekst toevoegen
+  st.markdown("""
+  In de correlatie matrix wordt het verband tussen het aantal vluchten, passagiers en (verwacht) overledenen in 2020 en 2021 weergeven. 
+  Te zien is een negatief verband tussen het aantal overledenen en het aantal vluchten en passagiers. 
+  Dit negatieve verband kan ook verklaard worden aan de hand van COVID-19 aangezien tijdens de pandemie minder mensen gebruik hebben gemaakt van de luchthavens. 
+  \n
+  Met behulp van het keuzemenu kan de luchthaven geselecteerd worden. 
+  """)
   
   y = st.radio(label = "Kies gewenste luchthaven:", 
                options = ["Amsterdam Airport Schiphol", "Rotterdam The Hague Airport", "Eindhoven Airport", "Maastricht Aachen Airport", "Groningen Airport Eelde"])
