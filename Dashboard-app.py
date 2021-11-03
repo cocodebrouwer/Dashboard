@@ -27,9 +27,9 @@ Veel plezier met het bekijken van ons interactieve Dashboard en het uitproberen 
 """)
 
 #Kies inspectie
-st.sidebar.title("Kies pagina")
+st.sidebar.title("Kies inspectie")
 nav = st.sidebar.radio(label = "", 
-                       options = ["Histogram", "Boxplot", "Spreidingsdiagram", "Correlatie Matrix", "Kaart", "Bronnenlijst"])
+                       options = ["Histogram", "Boxplot", "Spreidingsdiagram", "Correlatie Matrix", "Kaart"])
 
 #--------------------
 #Code voor histogram met keuze menu
@@ -234,7 +234,7 @@ elif nav == "Kaart":
                         size_max = 100)
   st.plotly_chart(fig7)
   
-  #--------------------
+#--------------------
 #Tekst toevoegen
 st.markdown("""
 ----------
