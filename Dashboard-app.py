@@ -123,6 +123,17 @@ elif nav == "Boxplot":
 #Code voor spreidingsdiagram met keuze menu
 elif nav == "Spreidingsdiagram":
   
+  #Tekst toevoegen
+  st.markdown("""
+  In het spreidingsdiagram wordt het aantal vluchten of passagiers uitgezet tegen het aantal overledenen van 2019 tot en met 2021 weergeven. 
+  Het diagram bevat een algehele trendline die voor alle Nederlandse luchthaven samen geldt. 
+  De trendline heeft een negatief verloop wat tevens ook naar verwachting is. 
+  Hieruit valt te concluderen dat tijdens de pandemie minder mensen gebruik hebben gemaakt van de luchthavens dan gebruikelijk. 
+  
+  \n
+  Met behulp van het keuzemenu kan de soort activiteit geselecteerd worden. 
+  """)
+  
   y = st.radio(label = "Kies gewenste activiteit:", 
                options = ["Totaal aantal vluchten", "Totaal aantal aangekomen vluchten", "Totaal aantal vertrokken vluchten", "Totaal aantal passagiers", 
                           "Totaal aantal aangekomen passagiers", "Totaal aantal vertrokken passagiers"])
