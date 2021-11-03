@@ -111,9 +111,12 @@ elif nav == "Boxplot":
 #-----------------------------------------------------------------------------
 
 elif nav == "Spreidingsdiagram":
+  
+  y = st.radio(label="", options=["Totaal aantal vluchten", "Totaal aantal aangekomen vluchten", "Totaal aantal vertrokken vluchten", "Totaal aantal passagiers", "Totaal aantal aangekomen passagiers", "Totaal aantal vertrokken passagiers"])
+  
   #Code voor interactieve scatterplot met plotly.express
   data1 = pd.read_csv('data_streamlit.csv')
-  fig5 = px.scatter(data1, x = "Totaal aantal overledenen", y = "Totaal aantal vluchten", 
+  fig5 = px.scatter(data1, x = "Totaal aantal overledenen", y = y, 
                     hover_name = "Periode",title = 'Nederlandse luchthavens en sterftecijfers 2020-2021', size = "Totaal aantal passagiers", 
                     color="Luchthaven", opacity = 0.5, size_max=60, trendline="ols", trendline_scope='overall')
 
