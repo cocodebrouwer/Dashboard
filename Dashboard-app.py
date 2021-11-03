@@ -169,6 +169,7 @@ data_corr = data2[['Totaal aantal vluchten',
                    'Totaal aantal overledenen', 
                    'Verwacht aantal overledenen']]
 corrMatrix = data_corr.corr()
+fig6, ax = plt.subplots()
 sns.heatmap(corrMatrix, 
            annot = True, 
            cmap = 'Purples', 
@@ -176,14 +177,14 @@ sns.heatmap(corrMatrix,
            linecolor = 'white', 
            square = True)
 plt.title('Schiphol en sterftecijfers 2020-2021')
-st.pyplot()
+st.pyplot(fig6)
 
 
 
 
 
 data3 = pd.read_csv('data_merge_streamlit.csv')
-fig6 = px.scatter_geo(data_frame = data3, 
+fig7 = px.scatter_geo(data_frame = data3, 
                lat = 'LAT', 
                lon = 'LNG', 
                hover_name = 'Luchthaven', 
@@ -201,4 +202,4 @@ fig6 = px.scatter_geo(data_frame = data3,
                title = 'Nederlandse luchthavens en COVID-19', 
                fitbounds = 'locations', 
                size_max = 100)
-st.plotly_chart(fig6)
+st.plotly_chart(fig7)
