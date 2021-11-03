@@ -163,6 +163,7 @@ elif nav == "Spreidingsdiagram":
 
 elif nav == "Correlatie Matrix":
   #Code voor correlatie matrix 
+  data1 = pd.read_csv('data_streamlit.csv')
   data2 = data1[data1['Luchthaven'] == 'Amsterdam Airport Schiphol']
   data_corr = data2[['Totaal aantal vluchten', 
                      'Totaal aantal passagiers', 
