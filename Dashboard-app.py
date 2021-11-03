@@ -38,7 +38,11 @@ if nav == "Histogram":
   
   #Tekst toevoegen
   st.markdown("""
-  In de histogram 
+  In de histogram wordt het aantal vluchten of passagiers per maand van 2019 tot en met 2021 weergeven. 
+  Zo te zien is er een extreme daling in de bedrijvigheid van de luchthavens rond het begin van 2020. 
+  Deze daling staat in verband met het begin van de pandemie in Nederland. 
+  \n
+  Met behulp van het keuzemenu kan de soort activiteit geselecteerd worden. 
   """)
   
   y = st.radio(label = "Kies gewenste activiteit:", 
@@ -75,6 +79,16 @@ if nav == "Histogram":
 #--------------------
 #Code voor boxplot met keuze menu
 elif nav == "Boxplot":
+  
+  #Tekst toevoegen
+  st.markdown("""
+  In de boxplot wordt het aantal vluchten of passagiers van 2019 tot en met 2021 weergeven. 
+  Opvallend zijn de minimale waardes en de grote uiteenligging van de waardes in de boxplots van de verschillende luchthavens. 
+  Ook dit is te verklaren aan de hand van de heersende pandemie in Nederland. 
+  De ontwikkelingen van COVID-19 veroorzaken grote schommelingen in de drukte van de luchthavens. 
+  \n
+  Met behulp van het keuzemenu kan de soort activiteit geselecteerd worden. 
+  """)
   
   y = st.radio(label = "Kies gewenste activiteit:", 
                options = ["Totaal aantal vluchten", "Totaal aantal aangekomen vluchten", "Totaal aantal vertrokken vluchten", "Totaal aantal passagiers", 
