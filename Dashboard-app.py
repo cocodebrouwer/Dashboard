@@ -157,7 +157,7 @@ elif nav == "Correlatie Matrix":
              linewidths = 2, 
              linecolor = 'white', 
              square = True)
-  plt.title('Schiphol en sterftecijfers 2020-2021')
+  plt.title(y + ' en sterftecijfers 2020-2021')
   st.pyplot(fig6)
 
 
