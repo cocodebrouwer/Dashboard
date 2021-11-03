@@ -55,14 +55,17 @@ if nav == "Histogram":
 #-----------------------------------------------------------------------------
 
 elif nav == "Boxplot":
+  
+  y = st.radio(label="", options=["Totaal aantal vluchten", "Totaal aantal aangekomen vluchten", "Totaal aantal vertrokken vluchten", "Totaal aantal passagiers", "Totaal aantal aangekomen passagiers", "Totaal aantal vertrokken passagiers"])
+  
   CBS = pd.read_csv('CBS_streamlit.csv')
   #Code voor interactieve boxplot met plotly.express
   fig3 = px.box(CBS, 
                 x = 'Luchthaven', 
-                y = "Totaal aantal vluchten", 
+                y = y, 
                 color = 'Luchthaven', 
                 hover_name = 'Luchthaven',  
-                title = 'Aantal vluchten Nederlandse luchthavens 2019-2021')
+                title = y + " Nederlandse luchthavens 2019-2021")
 
   #Dropdown buttons
   dropdown_buttons = [{'label':"Luchthavens NL", 'method':"update", 'args':[{"visible":[True, True, True, True, True]}]},
