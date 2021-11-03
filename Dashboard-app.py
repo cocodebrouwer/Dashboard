@@ -27,9 +27,9 @@ Veel plezier met het bekijken van ons interactieve Dashboard en het uitproberen 
 """)
 
 #Kies inspectie
-st.sidebar.title("Kies inspectie")
+st.sidebar.title("Kies pagina")
 nav = st.sidebar.radio(label = "", 
-                       options = ["Histogram", "Boxplot", "Spreidingsdiagram", "Correlatie Matrix", "Kaart"])
+                       options = ["Histogram", "Boxplot", "Spreidingsdiagram", "Correlatie Matrix", "Kaart", "Bronnenlijst"])
 
 #--------------------
 #Code voor histogram met keuze menu
@@ -233,3 +233,14 @@ elif nav == "Kaart":
                         fitbounds = 'locations', 
                         size_max = 100)
   st.plotly_chart(fig7)
+  
+  #--------------------
+  #Code voor bronnenlijst  
+  if nav == "Bronnenlijst":
+  
+    #Tekst toevoegen
+    st.markdown("""
+    Dit zijn de bronnen die wij gebruikt hebben voor de totstandkoming van dit Dashboard: 
+    - CBS Statline. (z.d.). CBS StatLine. Geraadpleegd op 3 november 2021, van https://opendata.cbs.nl/#/CBS/nl/dataset/37478hvv/table
+    - Tijdlijn van maatregelen voor bestrijding COVID-19. (z.d.). RIVM. Geraadpleegd op 3 november 2021, van https://www.rivm.nl/gedragsonderzoek/tijdlijn-maatregelen-covid
+    """)
