@@ -22,7 +22,6 @@ nav = st.sidebar.radio(label="", options=["Histogram", "Boxplot", "Spreidingsdia
 if nav == "Histogram":
   
   y = st.radio(label="", options=["Totaal aantal vluchten", "Totaal aantal passagiers"])
-  title = st.radio(label="", options=["Totaal aantal vluchten Nederlandse luchthavens 2019-2021", "Totaal aantal passagiers Nederlandse luchthavens 2019-2021"])
   
   #Code voor interactieve barplot met plotly.express
   CBS = pd.read_csv('CBS_streamlit.csv')
@@ -33,7 +32,7 @@ if nav == "Histogram":
                 hover_name = "Luchthaven",
                 labels = {'Periode':'Datum'},
                 opacity = 0.5,
-                title = title)
+                title = y + " Nederlandse luchthavens 2019-2021")
 
   #Dropdown buttons
   dropdown_buttons = [{'label':"Luchthavens NL", 'method':"update", 'args':[{"visible":[True, True, True, True, True]}]},
