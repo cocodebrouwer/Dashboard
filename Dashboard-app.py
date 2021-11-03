@@ -188,7 +188,7 @@ st.plotly_chart()
 
 
 data3 = pd.read_csv('data_merge_streamlit.csv')
-px.scatter_geo(data_frame = data3, 
+fig8 = px.scatter_geo(data_frame = data3, 
                lat = 'LAT', 
                lon = 'LNG', 
                hover_name = 'Luchthaven', 
@@ -206,4 +206,4 @@ px.scatter_geo(data_frame = data3,
                title = 'Nederlandse luchthavens en COVID-19', 
                fitbounds = 'locations', 
                size_max = 100)
-st.plotly_chart()
+st.plotly_chart(fig8)
