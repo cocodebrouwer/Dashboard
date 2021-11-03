@@ -5,7 +5,7 @@ import numpy as np
 import plotly.express as px
 import plotly.graph_objects as go
 import statsmodels.api as sm
-import seaborn as sn
+import seaborn as sns
 
 st.title("✈️ Dashboard Eindpresentatie ✈️")
 
@@ -169,7 +169,7 @@ data_corr = data2[['Totaal aantal vluchten',
                    'Totaal aantal overledenen', 
                    'Verwacht aantal overledenen']]
 corrMatrix = data_corr.corr()
-sn.heatmap(corrMatrix, 
+sns.heatmap(corrMatrix, 
            annot = True, 
            cmap = 'Purples', 
            linewidths = 2, 
