@@ -13,10 +13,21 @@ st.title("✈️ NL luchthavens en COVID-19 ✈️")
 
 #Tekst toevoegen
 st.markdown("""
-Welkom!\n
+Welkom bij ons Dashboard over de Nederlandse Luchthavens in tijden van COVID-19!\n
 \n
-Bij ons Dashboard over onze eindpresenatie als alles lukt in ieder geval....
+Wij zijn Coco de Brouwer en Inge Vijsma, derdejaars Aviation studenten en volgen momenteel de minor Data Science. 
 \n
+Voor de eindpresentatie van het vak Visual Analytics hebben wij een Dashboard gemaakt over de bedrijvigheid van de Nederlandse Luchthavens tijdens de pandemie. 
+\n
+Het Dashboard bestaat uit vijf verschillende soorten grafieken, deze zijn te selecteren in het keuzemenu. 
+\n 
+Zowel bij de histogram, boxplot en spreidingsdiagram kan de specifieke activiteit van de Nederlandse luchthavens gekozen worden. 
+\n
+Bij de correlatie matrix kunnen de verschillende luchthavens geselecteerd worden. 
+\n
+De kaart geeft een samenvattend beeld van de bedrijvigheid van de luchthavens tijdens de verschillende ontwikkelingen van COVID-19 weer. 
+\n
+Veel plezier met het bekijken van ons Dashboard en het uitproberen van de verschillende keuzemogelijkheden!
 """)
 
 #Kies inspectie
