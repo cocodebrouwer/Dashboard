@@ -36,6 +36,11 @@ nav = st.sidebar.radio(label = "",
 #Code voor histogram met keuze menu
 if nav == "Histogram":
   
+  #Tekst toevoegen
+  st.markdown("""
+  In de histogram 
+  """)
+  
   y = st.radio(label = "Kies gewenste activiteit:", 
                options = ["Totaal aantal vluchten", "Totaal aantal aangekomen vluchten", "Totaal aantal vertrokken vluchten", "Totaal aantal passagiers", 
                           "Totaal aantal aangekomen passagiers", "Totaal aantal vertrokken passagiers"])
