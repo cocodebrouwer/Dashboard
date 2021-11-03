@@ -4,7 +4,6 @@ import matplotlib.pyplot as plt
 import numpy as np
 import plotly.express as px
 import plotly.graph_objects as go
-import statsmodels.api as sm
 
 st.title("✈️ Dashboard Eindpresentatie ✈️")
 
