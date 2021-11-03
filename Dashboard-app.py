@@ -25,6 +25,7 @@ Bij de correlatie matrix kunnen de verschillende luchthavens geselecteerd worden
 De kaart geeft een samenvattend beeld van de bedrijvigheid van de luchthavens tijdens de verschillende ontwikkelingen van COVID-19 weer. 
 \n
 Veel plezier met het bekijken van ons interactieve Dashboard en het uitproberen van de verschillende keuzemogelijkheden!
+\n
 """)
 
 #Kies inspectie
