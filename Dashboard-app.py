@@ -36,7 +36,7 @@ nav = st.sidebar.radio(label = "",
 #Code voor histogram met keuze menu
 if nav == "Histogram":
   
-  y = st.radio(label = "hoi", 
+  y = st.radio(label = "Kies gewenste activiteit:", 
                options = ["Totaal aantal vluchten", "Totaal aantal aangekomen vluchten", "Totaal aantal vertrokken vluchten", "Totaal aantal passagiers", 
                           "Totaal aantal aangekomen passagiers", "Totaal aantal vertrokken passagiers"])
   
@@ -71,7 +71,7 @@ if nav == "Histogram":
 #Code voor boxplot met keuze menu
 elif nav == "Boxplot":
   
-  y = st.radio(label = "", 
+  y = st.radio(label = "Kies gewenste activiteit:", 
                options = ["Totaal aantal vluchten", "Totaal aantal aangekomen vluchten", "Totaal aantal vertrokken vluchten", "Totaal aantal passagiers", 
                           "Totaal aantal aangekomen passagiers", "Totaal aantal vertrokken passagiers"])
   
@@ -102,7 +102,7 @@ elif nav == "Boxplot":
 #Code voor spreidingsdiagram met keuze menu
 elif nav == "Spreidingsdiagram":
   
-  y = st.radio(label = "", 
+  y = st.radio(label = "Kies gewenste activiteit:", 
                options = ["Totaal aantal vluchten", "Totaal aantal aangekomen vluchten", "Totaal aantal vertrokken vluchten", "Totaal aantal passagiers", 
                           "Totaal aantal aangekomen passagiers", "Totaal aantal vertrokken passagiers"])
   
@@ -137,7 +137,7 @@ elif nav == "Spreidingsdiagram":
 #Code voor correlatie matrix met keuze menu
 elif nav == "Correlatie Matrix":
   
-  y = st.radio(label = "", 
+  y = st.radio(label = "Kies gewenste luchthaven:", 
                options = ["Amsterdam Airport Schiphol", "Rotterdam The Hague Airport", "Eindhoven Airport", "Maastricht Aachen Airport", "Groningen Airport Eelde"])
   
   data1 = pd.read_csv('data_streamlit.csv')
