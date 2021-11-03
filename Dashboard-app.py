@@ -25,6 +25,9 @@ De kaart geeft een samenvattend beeld van de bedrijvigheid van de luchthavens ti
 Veel plezier met het bekijken van ons interactieve Dashboard en het uitproberen van de verschillende keuzemogelijkheden!
 """)
 
+#Brede weergave
+st.set_page_config(layout = "wide")
+
 #Kies inspectie
 st.sidebar.title("Kies inspectie")
 nav = st.sidebar.radio(label = "", 
