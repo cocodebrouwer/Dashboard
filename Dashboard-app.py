@@ -21,7 +21,7 @@ language = st.sidebar.radio(label="", options=["Schiphol", "Maastricht"])
 
 
 #Code voor interactieve barplot met plotly.express
-CBS = pd.read_excel('CBS_streamlit.xls')
+CBS = pd.read_csv('CBS_streamlit.csv')
 fig1 = px.bar(CBS, 
               x = "Periode", 
               y = "Totaal aantal vluchten", 
@@ -136,7 +136,7 @@ fig4.show()
 
 
 #Code voor interactieve scatterplot met plotly.express
-data1 = pd.read_excel('data_streamlit.xls')
+data1 = pd.read_csv('data_streamlit.csv')
 fig5 = px.scatter(data1, 
                   x = "Totaal aantal overledenen", 
                   y = "Totaal aantal vluchten", 
@@ -187,7 +187,7 @@ plt.show()
 
 
 
-data3 = pd.read_excel('data_merge_streamlit.xls')
+data3 = pd.read_csv('data_merge_streamlit.csv')
 px.scatter_geo(data_frame = data3, 
                lat = 'LAT', 
                lon = 'LNG', 
