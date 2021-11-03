@@ -21,11 +21,13 @@ nav = st.sidebar.radio(label="", options=["Histogram", "Boxplot", "Spreidingsdia
 
 if nav == "Histogram":
   
+  y = st.radio(label="", options=["Totaal aantal vluchten", "Totaal aantal passagiers"])
+  
   #Code voor interactieve barplot met plotly.express
   CBS = pd.read_csv('CBS_streamlit.csv')
   fig1 = px.bar(CBS, 
                 x = "Periode", 
-                y = "Totaal aantal vluchten", 
+                y = y, 
                 color = "Luchthaven", 
                 hover_name = "Luchthaven",
                 labels = {'Periode':'Datum'},
