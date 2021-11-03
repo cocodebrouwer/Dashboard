@@ -138,7 +138,9 @@ st.plotly_chart(fig4)
 #Code voor interactieve scatterplot met plotly.express
 data1 = pd.read_csv('data_streamlit.csv')
 fig5 = px.scatter(data1, x = "Totaal aantal overledenen", y = "Totaal aantal vluchten", size = "Totaal aantal passagiers", 
-                  hover_name = "Periode",color = "Luchthaven",  opacity = 0.5, size_max = 60,trendline = 'ols', title = 'Nederlandse luchthavens en sterftecijfers 2020-2021')
+                  hover_name = "Periode",color = "Luchthaven",  opacity = 0.5, size_max = 60,trendline = 'ols')
+
+#, title = 'Nederlandse luchthavens en sterftecijfers 2020-2021')
                   
                   #trendline_scope = 'overall', 
   
