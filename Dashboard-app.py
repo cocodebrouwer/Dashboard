@@ -1,5 +1,10 @@
-#Importeer de benodigde packages
+#Importeer streamlit
 import streamlit as st
+
+#Brede weergave
+st.set_page_config(layout = "wide")
+
+#Importeer de benodigde packages
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
@@ -24,9 +29,6 @@ De kaart geeft een samenvattend beeld van de bedrijvigheid van de luchthavens ti
 \n
 Veel plezier met het bekijken van ons interactieve Dashboard en het uitproberen van de verschillende keuzemogelijkheden!
 """)
-
-#Brede weergave
-st.set_page_config(layout = "wide")
 
 #Kies inspectie
 st.sidebar.title("Kies inspectie")
