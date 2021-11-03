@@ -19,10 +19,7 @@ Welkom bij ons Dashboard over de Nederlandse Luchthavens in tijden van COVID-19!
 \n
 Wij zijn Coco de Brouwer en Inge Vijsma, derdejaars Aviation studenten en volgen momenteel de minor Data Science. 
 Voor de eindpresentatie van het vak Visual Analytics hebben wij een Dashboard gemaakt over de bedrijvigheid van de Nederlandse Luchthavens tijdens de pandemie. 
-Het Dashboard bestaat uit vijf verschillende soorten grafieken, deze zijn te selecteren in het keuzemenu. 
-Zowel bij de histogram, boxplot en spreidingsdiagram kan de specifieke activiteit van de Nederlandse luchthavens gekozen worden. 
-Bij de correlatie matrix kunnen de verschillende luchthavens geselecteerd worden. 
-De kaart geeft een samenvattend beeld van de bedrijvigheid van de luchthavens tijdens de verschillende ontwikkelingen van COVID-19 weer. 
+Het Dashboard bestaat uit vijf verschillende soorten grafieken, deze zijn te selecteren in het keuzemenu.  
 \n
 Veel plezier met het bekijken van ons interactieve Dashboard en het uitproberen van de verschillende keuzemogelijkheden!
 \n
