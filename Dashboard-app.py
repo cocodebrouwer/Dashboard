@@ -1,9 +1,6 @@
 #Importeer streamlit
 import streamlit as st
 
-#Brede weergave
-st.set_page_config(layout = "wide")
-
 #Importeer de benodigde packages
 import pandas as pd
 import matplotlib.pyplot as plt
