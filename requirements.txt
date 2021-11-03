@@ -5,3 +5,4 @@ matplotlib==3.1.3
 numpy==1.18.1
 plotly
 statsmodels
+import seaborn as sns
