@@ -205,14 +205,11 @@ elif nav == "Kaart":
   #Tekst toevoegen
   st.markdown("""
   De kaart geeft een samenvattend beeld van de bedrijvigheid van de luchthavens tijdens de verschillende ontwikkelingen van COVID-19 weer. 
-  Op de kaart zijn de verschillende luchthavens te zien en de grootte van de cirkels staan in verband 
+  Op de kaart zijn de verschillende luchthavens te zien met behulp van cirkelmarkeringen. 
+  De omvang van deze markeringen zijn gekoppeld aan de mate van activiteit op de luchthaven.
+  Daarnaast bevatten de markeringen extra informatie indien u er op klikt. 
+  Met behulp van een slider worden de ontwikkelingen van COVID-19 in Nederland chronologisch weergeven, beginnend bij januari 2020 en eindigend bij augustus 2021. 
   
-  
-  In de boxplot wordt het aantal vluchten of passagiers van 2019 tot en met 2021 weergeven. 
-  Opvallend zijn de minimale waardes en de grote uiteenligging van de waardes in de boxplots van de verschillende luchthavens. 
-  Ook dit is te verklaren aan de hand van de heersende pandemie in Nederland. 
-  De ontwikkelingen van COVID-19 veroorzaken grote schommelingen in de drukte van de luchthavens. 
-  \n
   Met behulp van het keuzemenu kan de soort activiteit geselecteerd worden. 
   """)
   
