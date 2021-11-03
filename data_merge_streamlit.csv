@@ -1,0 +1,436 @@
+,Luchthaven,Periode,Totaal aantal vluchten,Totaal aantal aangekomen vluchten,Totaal aantal vertrokken vluchten,Totaal aantal passagiers,Totaal aantal aangekomen passagiers,Totaal aantal vertrokken passagiers,Totaal aantal passagiers op Europese vluchten,Totaal aantal passagiers op intercontinentale vluchten,Totaal aantal passagiers met onbekende herkomst/bestemming,Weeknummer,Totaal aantal overledenen,Verwacht aantal overledenen,Verwacht aantal overledenen (95%-interval),LAT,LNG,Maatregelen
+0,Amsterdam Airport Schiphol,2020 januari,37567,18784,18783,5074773,2561003,2513770,3452707,1622066,0,1,3103,3277,2908 – 3645,52.3105386,4.7682744,Eerste signalen corona (jan '20)
+1,Amsterdam Airport Schiphol,2020 januari,37567,18784,18783,5074773,2561003,2513770,3452707,1622066,0,2,3364,3311,2930 – 3692,52.3105386,4.7682744,Eerste signalen corona (jan '20)
+2,Amsterdam Airport Schiphol,2020 januari,37567,18784,18783,5074773,2561003,2513770,3452707,1622066,0,3,3157,3344,2945 – 3742,52.3105386,4.7682744,Eerste signalen corona (jan '20)
+3,Amsterdam Airport Schiphol,2020 januari,37567,18784,18783,5074773,2561003,2513770,3452707,1622066,0,4,3046,3392,3008 – 3776,52.3105386,4.7682744,Eerste signalen corona (jan '20)
+4,Rotterdam The Hague Airport,2020 januari,963,481,482,99080,51119,47961,90361,8719,0,1,3103,3277,2908 – 3645,51.9555086,4.4398832,Eerste signalen corona (jan '20)
+5,Rotterdam The Hague Airport,2020 januari,963,481,482,99080,51119,47961,90361,8719,0,2,3364,3311,2930 – 3692,51.9555086,4.4398832,Eerste signalen corona (jan '20)
+6,Rotterdam The Hague Airport,2020 januari,963,481,482,99080,51119,47961,90361,8719,0,3,3157,3344,2945 – 3742,51.9555086,4.4398832,Eerste signalen corona (jan '20)
+7,Rotterdam The Hague Airport,2020 januari,963,481,482,99080,51119,47961,90361,8719,0,4,3046,3392,3008 – 3776,51.9555086,4.4398832,Eerste signalen corona (jan '20)
+8,Eindhoven Airport,2020 januari,2554,1277,1277,400991,202475,198516,375641,25350,0,1,3103,3277,2908 – 3645,51.4583691,5.3920556,Eerste signalen corona (jan '20)
+9,Eindhoven Airport,2020 januari,2554,1277,1277,400991,202475,198516,375641,25350,0,2,3364,3311,2930 – 3692,51.4583691,5.3920556,Eerste signalen corona (jan '20)
+10,Eindhoven Airport,2020 januari,2554,1277,1277,400991,202475,198516,375641,25350,0,3,3157,3344,2945 – 3742,51.4583691,5.3920556,Eerste signalen corona (jan '20)
+11,Eindhoven Airport,2020 januari,2554,1277,1277,400991,202475,198516,375641,25350,0,4,3046,3392,3008 – 3776,51.4583691,5.3920556,Eerste signalen corona (jan '20)
+12,Maastricht Aachen Airport,2020 januari,474,238,236,15115,8177,6938,9549,5566,0,1,3103,3277,2908 – 3645,50.9123207,5.7694951,Eerste signalen corona (jan '20)
+13,Maastricht Aachen Airport,2020 januari,474,238,236,15115,8177,6938,9549,5566,0,2,3364,3311,2930 – 3692,50.9123207,5.7694951,Eerste signalen corona (jan '20)
+14,Maastricht Aachen Airport,2020 januari,474,238,236,15115,8177,6938,9549,5566,0,3,3157,3344,2945 – 3742,50.9123207,5.7694951,Eerste signalen corona (jan '20)
+15,Maastricht Aachen Airport,2020 januari,474,238,236,15115,8177,6938,9549,5566,0,4,3046,3392,3008 – 3776,50.9123207,5.7694951,Eerste signalen corona (jan '20)
+16,Groningen Airport Eelde,2020 januari,210,104,106,5290,2612,2678,5290,0,0,1,3103,3277,2908 – 3645,53.2145858,6.5887355,Eerste signalen corona (jan '20)
+17,Groningen Airport Eelde,2020 januari,210,104,106,5290,2612,2678,5290,0,0,2,3364,3311,2930 – 3692,53.2145858,6.5887355,Eerste signalen corona (jan '20)
+18,Groningen Airport Eelde,2020 januari,210,104,106,5290,2612,2678,5290,0,0,3,3157,3344,2945 – 3742,53.2145858,6.5887355,Eerste signalen corona (jan '20)
+19,Groningen Airport Eelde,2020 januari,210,104,106,5290,2612,2678,5290,0,0,4,3046,3392,3008 – 3776,53.2145858,6.5887355,Eerste signalen corona (jan '20)
+20,Amsterdam Airport Schiphol,2020 februari,34979,17492,17487,4719769,2342660,2377109,3330655,1389114,0,5,3164,3407,3027 – 3788,52.3105386,4.7682744,Eerste coronabesmetting in Nederland (feb '20)
+21,Amsterdam Airport Schiphol,2020 februari,34979,17492,17487,4719769,2342660,2377109,3330655,1389114,0,6,3196,3401,2979 – 3823,52.3105386,4.7682744,Eerste coronabesmetting in Nederland (feb '20)
+22,Amsterdam Airport Schiphol,2020 februari,34979,17492,17487,4719769,2342660,2377109,3330655,1389114,0,7,3198,3408,2916 – 3901,52.3105386,4.7682744,Eerste coronabesmetting in Nederland (feb '20)
+23,Amsterdam Airport Schiphol,2020 februari,34979,17492,17487,4719769,2342660,2377109,3330655,1389114,0,8,2959,3387,2851 – 3922,52.3105386,4.7682744,Eerste coronabesmetting in Nederland (feb '20)
+24,Rotterdam The Hague Airport,2020 februari,1031,506,525,104062,49988,54074,97069,6993,0,5,3164,3407,3027 – 3788,51.9555086,4.4398832,Eerste coronabesmetting in Nederland (feb '20)
+25,Rotterdam The Hague Airport,2020 februari,1031,506,525,104062,49988,54074,97069,6993,0,6,3196,3401,2979 – 3823,51.9555086,4.4398832,Eerste coronabesmetting in Nederland (feb '20)
+26,Rotterdam The Hague Airport,2020 februari,1031,506,525,104062,49988,54074,97069,6993,0,7,3198,3408,2916 – 3901,51.9555086,4.4398832,Eerste coronabesmetting in Nederland (feb '20)
+27,Rotterdam The Hague Airport,2020 februari,1031,506,525,104062,49988,54074,97069,6993,0,8,2959,3387,2851 – 3922,51.9555086,4.4398832,Eerste coronabesmetting in Nederland (feb '20)
+28,Eindhoven Airport,2020 februari,2649,1328,1321,438828,214069,224759,410047,28781,0,5,3164,3407,3027 – 3788,51.4583691,5.3920556,Eerste coronabesmetting in Nederland (feb '20)
+29,Eindhoven Airport,2020 februari,2649,1328,1321,438828,214069,224759,410047,28781,0,6,3196,3401,2979 – 3823,51.4583691,5.3920556,Eerste coronabesmetting in Nederland (feb '20)
+30,Eindhoven Airport,2020 februari,2649,1328,1321,438828,214069,224759,410047,28781,0,7,3198,3408,2916 – 3901,51.4583691,5.3920556,Eerste coronabesmetting in Nederland (feb '20)
+31,Eindhoven Airport,2020 februari,2649,1328,1321,438828,214069,224759,410047,28781,0,8,2959,3387,2851 – 3922,51.4583691,5.3920556,Eerste coronabesmetting in Nederland (feb '20)
+32,Maastricht Aachen Airport,2020 februari,476,237,239,14354,7233,7121,8083,6271,0,5,3164,3407,3027 – 3788,50.9123207,5.7694951,Eerste coronabesmetting in Nederland (feb '20)
+33,Maastricht Aachen Airport,2020 februari,476,237,239,14354,7233,7121,8083,6271,0,6,3196,3401,2979 – 3823,50.9123207,5.7694951,Eerste coronabesmetting in Nederland (feb '20)
+34,Maastricht Aachen Airport,2020 februari,476,237,239,14354,7233,7121,8083,6271,0,7,3198,3408,2916 – 3901,50.9123207,5.7694951,Eerste coronabesmetting in Nederland (feb '20)
+35,Maastricht Aachen Airport,2020 februari,476,237,239,14354,7233,7121,8083,6271,0,8,2959,3387,2851 – 3922,50.9123207,5.7694951,Eerste coronabesmetting in Nederland (feb '20)
+36,Groningen Airport Eelde,2020 februari,164,82,82,4587,2292,2295,4587,0,0,5,3164,3407,3027 – 3788,53.2145858,6.5887355,Eerste coronabesmetting in Nederland (feb '20)
+37,Groningen Airport Eelde,2020 februari,164,82,82,4587,2292,2295,4587,0,0,6,3196,3401,2979 – 3823,53.2145858,6.5887355,Eerste coronabesmetting in Nederland (feb '20)
+38,Groningen Airport Eelde,2020 februari,164,82,82,4587,2292,2295,4587,0,0,7,3198,3408,2916 – 3901,53.2145858,6.5887355,Eerste coronabesmetting in Nederland (feb '20)
+39,Groningen Airport Eelde,2020 februari,164,82,82,4587,2292,2295,4587,0,0,8,2959,3387,2851 – 3922,53.2145858,6.5887355,Eerste coronabesmetting in Nederland (feb '20)
+40,Amsterdam Airport Schiphol,2020 maart,25155,12626,12529,2476372,1298133,1178239,1641935,834437,0,9,3098,3352,2805 – 3898,52.3105386,4.7682744,Begin intelligente lockdown (mrt '20)
+41,Amsterdam Airport Schiphol,2020 maart,25155,12626,12529,2476372,1298133,1178239,1641935,834437,0,10,3107,3315,2785 – 3845,52.3105386,4.7682744,Begin intelligente lockdown (mrt '20)
+42,Amsterdam Airport Schiphol,2020 maart,25155,12626,12529,2476372,1298133,1178239,1641935,834437,0,11,3218,3253,2756 – 3751,52.3105386,4.7682744,Begin intelligente lockdown (mrt '20)
+43,Amsterdam Airport Schiphol,2020 maart,25155,12626,12529,2476372,1298133,1178239,1641935,834437,0,12,3614,3174,2711 – 3637,52.3105386,4.7682744,Begin intelligente lockdown (mrt '20)
+44,Amsterdam Airport Schiphol,2020 maart,25155,12626,12529,2476372,1298133,1178239,1641935,834437,0,13,4458,3104,2703 – 3505,52.3105386,4.7682744,Begin intelligente lockdown (mrt '20)
+45,Rotterdam The Hague Airport,2020 maart,748,369,379,62870,36664,26206,57788,5082,0,9,3098,3352,2805 – 3898,51.9555086,4.4398832,Begin intelligente lockdown (mrt '20)
+46,Rotterdam The Hague Airport,2020 maart,748,369,379,62870,36664,26206,57788,5082,0,10,3107,3315,2785 – 3845,51.9555086,4.4398832,Begin intelligente lockdown (mrt '20)
+47,Rotterdam The Hague Airport,2020 maart,748,369,379,62870,36664,26206,57788,5082,0,11,3218,3253,2756 – 3751,51.9555086,4.4398832,Begin intelligente lockdown (mrt '20)
+48,Rotterdam The Hague Airport,2020 maart,748,369,379,62870,36664,26206,57788,5082,0,12,3614,3174,2711 – 3637,51.9555086,4.4398832,Begin intelligente lockdown (mrt '20)
+49,Rotterdam The Hague Airport,2020 maart,748,369,379,62870,36664,26206,57788,5082,0,13,4458,3104,2703 – 3505,51.9555086,4.4398832,Begin intelligente lockdown (mrt '20)
+50,Eindhoven Airport,2020 maart,1888,939,949,225071,121612,103459,210026,15045,0,9,3098,3352,2805 – 3898,51.4583691,5.3920556,Begin intelligente lockdown (mrt '20)
+51,Eindhoven Airport,2020 maart,1888,939,949,225071,121612,103459,210026,15045,0,10,3107,3315,2785 – 3845,51.4583691,5.3920556,Begin intelligente lockdown (mrt '20)
+52,Eindhoven Airport,2020 maart,1888,939,949,225071,121612,103459,210026,15045,0,11,3218,3253,2756 – 3751,51.4583691,5.3920556,Begin intelligente lockdown (mrt '20)
+53,Eindhoven Airport,2020 maart,1888,939,949,225071,121612,103459,210026,15045,0,12,3614,3174,2711 – 3637,51.4583691,5.3920556,Begin intelligente lockdown (mrt '20)
+54,Eindhoven Airport,2020 maart,1888,939,949,225071,121612,103459,210026,15045,0,13,4458,3104,2703 – 3505,51.4583691,5.3920556,Begin intelligente lockdown (mrt '20)
+55,Maastricht Aachen Airport,2020 maart,485,236,249,7242,4398,2844,4364,2873,5,9,3098,3352,2805 – 3898,50.9123207,5.7694951,Begin intelligente lockdown (mrt '20)
+56,Maastricht Aachen Airport,2020 maart,485,236,249,7242,4398,2844,4364,2873,5,10,3107,3315,2785 – 3845,50.9123207,5.7694951,Begin intelligente lockdown (mrt '20)
+57,Maastricht Aachen Airport,2020 maart,485,236,249,7242,4398,2844,4364,2873,5,11,3218,3253,2756 – 3751,50.9123207,5.7694951,Begin intelligente lockdown (mrt '20)
+58,Maastricht Aachen Airport,2020 maart,485,236,249,7242,4398,2844,4364,2873,5,12,3614,3174,2711 – 3637,50.9123207,5.7694951,Begin intelligente lockdown (mrt '20)
+59,Maastricht Aachen Airport,2020 maart,485,236,249,7242,4398,2844,4364,2873,5,13,4458,3104,2703 – 3505,50.9123207,5.7694951,Begin intelligente lockdown (mrt '20)
+60,Groningen Airport Eelde,2020 maart,30,14,16,1999,1201,798,1999,0,0,9,3098,3352,2805 – 3898,53.2145858,6.5887355,Begin intelligente lockdown (mrt '20)
+61,Groningen Airport Eelde,2020 maart,30,14,16,1999,1201,798,1999,0,0,10,3107,3315,2785 – 3845,53.2145858,6.5887355,Begin intelligente lockdown (mrt '20)
+62,Groningen Airport Eelde,2020 maart,30,14,16,1999,1201,798,1999,0,0,11,3218,3253,2756 – 3751,53.2145858,6.5887355,Begin intelligente lockdown (mrt '20)
+63,Groningen Airport Eelde,2020 maart,30,14,16,1999,1201,798,1999,0,0,12,3614,3174,2711 – 3637,53.2145858,6.5887355,Begin intelligente lockdown (mrt '20)
+64,Groningen Airport Eelde,2020 maart,30,14,16,1999,1201,798,1999,0,0,13,4458,3104,2703 – 3505,53.2145858,6.5887355,Begin intelligente lockdown (mrt '20)
+65,Amsterdam Airport Schiphol,2020 april,4236,2118,2118,126015,70038,55977,67687,58328,0,14,5085,3024,2712 – 3337,52.3105386,4.7682744,Verlenging maatregelen en uitbreiding van testbeleid (apr '20)
+66,Amsterdam Airport Schiphol,2020 april,4236,2118,2118,126015,70038,55977,67687,58328,0,15,4982,2957,2719 – 3195,52.3105386,4.7682744,Verlenging maatregelen en uitbreiding van testbeleid (apr '20)
+67,Amsterdam Airport Schiphol,2020 april,4236,2118,2118,126015,70038,55977,67687,58328,0,16,4308,2915,2711 – 3120,52.3105386,4.7682744,Verlenging maatregelen en uitbreiding van testbeleid (apr '20)
+68,Amsterdam Airport Schiphol,2020 april,4236,2118,2118,126015,70038,55977,67687,58328,0,17,3910,2869,2677 – 3060,52.3105386,4.7682744,Verlenging maatregelen en uitbreiding van testbeleid (apr '20)
+69,Rotterdam The Hague Airport,2020 april,41,17,24,0,0,0,0,0,0,14,5085,3024,2712 – 3337,51.9555086,4.4398832,Verlenging maatregelen en uitbreiding van testbeleid (apr '20)
+70,Rotterdam The Hague Airport,2020 april,41,17,24,0,0,0,0,0,0,15,4982,2957,2719 – 3195,51.9555086,4.4398832,Verlenging maatregelen en uitbreiding van testbeleid (apr '20)
+71,Rotterdam The Hague Airport,2020 april,41,17,24,0,0,0,0,0,0,16,4308,2915,2711 – 3120,51.9555086,4.4398832,Verlenging maatregelen en uitbreiding van testbeleid (apr '20)
+72,Rotterdam The Hague Airport,2020 april,41,17,24,0,0,0,0,0,0,17,3910,2869,2677 – 3060,51.9555086,4.4398832,Verlenging maatregelen en uitbreiding van testbeleid (apr '20)
+73,Eindhoven Airport,2020 april,148,75,73,7732,4740,2992,7732,0,0,14,5085,3024,2712 – 3337,51.4583691,5.3920556,Verlenging maatregelen en uitbreiding van testbeleid (apr '20)
+74,Eindhoven Airport,2020 april,148,75,73,7732,4740,2992,7732,0,0,15,4982,2957,2719 – 3195,51.4583691,5.3920556,Verlenging maatregelen en uitbreiding van testbeleid (apr '20)
+75,Eindhoven Airport,2020 april,148,75,73,7732,4740,2992,7732,0,0,16,4308,2915,2711 – 3120,51.4583691,5.3920556,Verlenging maatregelen en uitbreiding van testbeleid (apr '20)
+76,Eindhoven Airport,2020 april,148,75,73,7732,4740,2992,7732,0,0,17,3910,2869,2677 – 3060,51.4583691,5.3920556,Verlenging maatregelen en uitbreiding van testbeleid (apr '20)
+77,Maastricht Aachen Airport,2020 april,329,162,167,5,0,5,3,0,2,14,5085,3024,2712 – 3337,50.9123207,5.7694951,Verlenging maatregelen en uitbreiding van testbeleid (apr '20)
+78,Maastricht Aachen Airport,2020 april,329,162,167,5,0,5,3,0,2,15,4982,2957,2719 – 3195,50.9123207,5.7694951,Verlenging maatregelen en uitbreiding van testbeleid (apr '20)
+79,Maastricht Aachen Airport,2020 april,329,162,167,5,0,5,3,0,2,16,4308,2915,2711 – 3120,50.9123207,5.7694951,Verlenging maatregelen en uitbreiding van testbeleid (apr '20)
+80,Maastricht Aachen Airport,2020 april,329,162,167,5,0,5,3,0,2,17,3910,2869,2677 – 3060,50.9123207,5.7694951,Verlenging maatregelen en uitbreiding van testbeleid (apr '20)
+81,Groningen Airport Eelde,2020 april,5,3,2,0,0,0,0,0,0,14,5085,3024,2712 – 3337,53.2145858,6.5887355,Verlenging maatregelen en uitbreiding van testbeleid (apr '20)
+82,Groningen Airport Eelde,2020 april,5,3,2,0,0,0,0,0,0,15,4982,2957,2719 – 3195,53.2145858,6.5887355,Verlenging maatregelen en uitbreiding van testbeleid (apr '20)
+83,Groningen Airport Eelde,2020 april,5,3,2,0,0,0,0,0,0,16,4308,2915,2711 – 3120,53.2145858,6.5887355,Verlenging maatregelen en uitbreiding van testbeleid (apr '20)
+84,Groningen Airport Eelde,2020 april,5,3,2,0,0,0,0,0,0,17,3910,2869,2677 – 3060,53.2145858,6.5887355,Verlenging maatregelen en uitbreiding van testbeleid (apr '20)
+85,Amsterdam Airport Schiphol,2020 mei,5873,2930,2943,207827,109314,98513,131546,76281,0,18,3383,2841,2650 – 3032,52.3105386,4.7682744,"Basisscholen open, meeste contactberoepen mogelijk (mei '20)"
+86,Amsterdam Airport Schiphol,2020 mei,5873,2930,2943,207827,109314,98513,131546,76281,0,19,2989,2821,2633 – 3009,52.3105386,4.7682744,"Basisscholen open, meeste contactberoepen mogelijk (mei '20)"
+87,Amsterdam Airport Schiphol,2020 mei,5873,2930,2943,207827,109314,98513,131546,76281,0,20,2777,2794,2626 – 2962,52.3105386,4.7682744,"Basisscholen open, meeste contactberoepen mogelijk (mei '20)"
+88,Amsterdam Airport Schiphol,2020 mei,5873,2930,2943,207827,109314,98513,131546,76281,0,21,2770,2770,2620 – 2920,52.3105386,4.7682744,"Basisscholen open, meeste contactberoepen mogelijk (mei '20)"
+89,Amsterdam Airport Schiphol,2020 mei,5873,2930,2943,207827,109314,98513,131546,76281,0,22,2732,2753,2608 – 2898,52.3105386,4.7682744,"Basisscholen open, meeste contactberoepen mogelijk (mei '20)"
+90,Rotterdam The Hague Airport,2020 mei,46,19,27,134,78,56,134,0,0,18,3383,2841,2650 – 3032,51.9555086,4.4398832,"Basisscholen open, meeste contactberoepen mogelijk (mei '20)"
+91,Rotterdam The Hague Airport,2020 mei,46,19,27,134,78,56,134,0,0,19,2989,2821,2633 – 3009,51.9555086,4.4398832,"Basisscholen open, meeste contactberoepen mogelijk (mei '20)"
+92,Rotterdam The Hague Airport,2020 mei,46,19,27,134,78,56,134,0,0,20,2777,2794,2626 – 2962,51.9555086,4.4398832,"Basisscholen open, meeste contactberoepen mogelijk (mei '20)"
+93,Rotterdam The Hague Airport,2020 mei,46,19,27,134,78,56,134,0,0,21,2770,2770,2620 – 2920,51.9555086,4.4398832,"Basisscholen open, meeste contactberoepen mogelijk (mei '20)"
+94,Rotterdam The Hague Airport,2020 mei,46,19,27,134,78,56,134,0,0,22,2732,2753,2608 – 2898,51.9555086,4.4398832,"Basisscholen open, meeste contactberoepen mogelijk (mei '20)"
+95,Eindhoven Airport,2020 mei,178,92,86,12108,7472,4636,12108,0,0,18,3383,2841,2650 – 3032,51.4583691,5.3920556,"Basisscholen open, meeste contactberoepen mogelijk (mei '20)"
+96,Eindhoven Airport,2020 mei,178,92,86,12108,7472,4636,12108,0,0,19,2989,2821,2633 – 3009,51.4583691,5.3920556,"Basisscholen open, meeste contactberoepen mogelijk (mei '20)"
+97,Eindhoven Airport,2020 mei,178,92,86,12108,7472,4636,12108,0,0,20,2777,2794,2626 – 2962,51.4583691,5.3920556,"Basisscholen open, meeste contactberoepen mogelijk (mei '20)"
+98,Eindhoven Airport,2020 mei,178,92,86,12108,7472,4636,12108,0,0,21,2770,2770,2620 – 2920,51.4583691,5.3920556,"Basisscholen open, meeste contactberoepen mogelijk (mei '20)"
+99,Eindhoven Airport,2020 mei,178,92,86,12108,7472,4636,12108,0,0,22,2732,2753,2608 – 2898,51.4583691,5.3920556,"Basisscholen open, meeste contactberoepen mogelijk (mei '20)"
+100,Maastricht Aachen Airport,2020 mei,452,226,226,4,2,2,4,0,0,18,3383,2841,2650 – 3032,50.9123207,5.7694951,"Basisscholen open, meeste contactberoepen mogelijk (mei '20)"
+101,Maastricht Aachen Airport,2020 mei,452,226,226,4,2,2,4,0,0,19,2989,2821,2633 – 3009,50.9123207,5.7694951,"Basisscholen open, meeste contactberoepen mogelijk (mei '20)"
+102,Maastricht Aachen Airport,2020 mei,452,226,226,4,2,2,4,0,0,20,2777,2794,2626 – 2962,50.9123207,5.7694951,"Basisscholen open, meeste contactberoepen mogelijk (mei '20)"
+103,Maastricht Aachen Airport,2020 mei,452,226,226,4,2,2,4,0,0,21,2770,2770,2620 – 2920,50.9123207,5.7694951,"Basisscholen open, meeste contactberoepen mogelijk (mei '20)"
+104,Maastricht Aachen Airport,2020 mei,452,226,226,4,2,2,4,0,0,22,2732,2753,2608 – 2898,50.9123207,5.7694951,"Basisscholen open, meeste contactberoepen mogelijk (mei '20)"
+105,Groningen Airport Eelde,2020 mei,7,3,4,47,22,25,47,0,0,18,3383,2841,2650 – 3032,53.2145858,6.5887355,"Basisscholen open, meeste contactberoepen mogelijk (mei '20)"
+106,Groningen Airport Eelde,2020 mei,7,3,4,47,22,25,47,0,0,19,2989,2821,2633 – 3009,53.2145858,6.5887355,"Basisscholen open, meeste contactberoepen mogelijk (mei '20)"
+107,Groningen Airport Eelde,2020 mei,7,3,4,47,22,25,47,0,0,20,2777,2794,2626 – 2962,53.2145858,6.5887355,"Basisscholen open, meeste contactberoepen mogelijk (mei '20)"
+108,Groningen Airport Eelde,2020 mei,7,3,4,47,22,25,47,0,0,21,2770,2770,2620 – 2920,53.2145858,6.5887355,"Basisscholen open, meeste contactberoepen mogelijk (mei '20)"
+109,Groningen Airport Eelde,2020 mei,7,3,4,47,22,25,47,0,0,22,2732,2753,2608 – 2898,53.2145858,6.5887355,"Basisscholen open, meeste contactberoepen mogelijk (mei '20)"
+110,Amsterdam Airport Schiphol,2020 juni,8108,4057,4051,471410,229128,242282,338245,133165,0,23,2682,2735,2591 – 2880,52.3105386,4.7682744,"Scholen VO kwart tijd open, basisscholen 100% open, horeca open (jun '20)"
+111,Amsterdam Airport Schiphol,2020 juni,8108,4057,4051,471410,229128,242282,338245,133165,0,24,2689,2737,2600 – 2875,52.3105386,4.7682744,"Scholen VO kwart tijd open, basisscholen 100% open, horeca open (jun '20)"
+112,Amsterdam Airport Schiphol,2020 juni,8108,4057,4051,471410,229128,242282,338245,133165,0,25,2696,2725,2594 – 2855,52.3105386,4.7682744,"Scholen VO kwart tijd open, basisscholen 100% open, horeca open (jun '20)"
+113,Amsterdam Airport Schiphol,2020 juni,8108,4057,4051,471410,229128,242282,338245,133165,0,26,2659,2717,2577 – 2857,52.3105386,4.7682744,"Scholen VO kwart tijd open, basisscholen 100% open, horeca open (jun '20)"
+114,Rotterdam The Hague Airport,2020 juni,168,80,88,7971,2072,5899,7971,0,0,23,2682,2735,2591 – 2880,51.9555086,4.4398832,"Scholen VO kwart tijd open, basisscholen 100% open, horeca open (jun '20)"
+115,Rotterdam The Hague Airport,2020 juni,168,80,88,7971,2072,5899,7971,0,0,24,2689,2737,2600 – 2875,51.9555086,4.4398832,"Scholen VO kwart tijd open, basisscholen 100% open, horeca open (jun '20)"
+116,Rotterdam The Hague Airport,2020 juni,168,80,88,7971,2072,5899,7971,0,0,25,2696,2725,2594 – 2855,51.9555086,4.4398832,"Scholen VO kwart tijd open, basisscholen 100% open, horeca open (jun '20)"
+117,Rotterdam The Hague Airport,2020 juni,168,80,88,7971,2072,5899,7971,0,0,26,2659,2717,2577 – 2857,51.9555086,4.4398832,"Scholen VO kwart tijd open, basisscholen 100% open, horeca open (jun '20)"
+118,Eindhoven Airport,2020 juni,565,286,279,46774,19688,27086,46774,0,0,23,2682,2735,2591 – 2880,51.4583691,5.3920556,"Scholen VO kwart tijd open, basisscholen 100% open, horeca open (jun '20)"
+119,Eindhoven Airport,2020 juni,565,286,279,46774,19688,27086,46774,0,0,24,2689,2737,2600 – 2875,51.4583691,5.3920556,"Scholen VO kwart tijd open, basisscholen 100% open, horeca open (jun '20)"
+120,Eindhoven Airport,2020 juni,565,286,279,46774,19688,27086,46774,0,0,25,2696,2725,2594 – 2855,51.4583691,5.3920556,"Scholen VO kwart tijd open, basisscholen 100% open, horeca open (jun '20)"
+121,Eindhoven Airport,2020 juni,565,286,279,46774,19688,27086,46774,0,0,26,2659,2717,2577 – 2857,51.4583691,5.3920556,"Scholen VO kwart tijd open, basisscholen 100% open, horeca open (jun '20)"
+122,Maastricht Aachen Airport,2020 juni,489,246,243,389,188,201,384,3,2,23,2682,2735,2591 – 2880,50.9123207,5.7694951,"Scholen VO kwart tijd open, basisscholen 100% open, horeca open (jun '20)"
+123,Maastricht Aachen Airport,2020 juni,489,246,243,389,188,201,384,3,2,24,2689,2737,2600 – 2875,50.9123207,5.7694951,"Scholen VO kwart tijd open, basisscholen 100% open, horeca open (jun '20)"
+124,Maastricht Aachen Airport,2020 juni,489,246,243,389,188,201,384,3,2,25,2696,2725,2594 – 2855,50.9123207,5.7694951,"Scholen VO kwart tijd open, basisscholen 100% open, horeca open (jun '20)"
+125,Maastricht Aachen Airport,2020 juni,489,246,243,389,188,201,384,3,2,26,2659,2717,2577 – 2857,50.9123207,5.7694951,"Scholen VO kwart tijd open, basisscholen 100% open, horeca open (jun '20)"
+126,Groningen Airport Eelde,2020 juni,6,5,1,0,0,0,0,0,0,23,2682,2735,2591 – 2880,53.2145858,6.5887355,"Scholen VO kwart tijd open, basisscholen 100% open, horeca open (jun '20)"
+127,Groningen Airport Eelde,2020 juni,6,5,1,0,0,0,0,0,0,24,2689,2737,2600 – 2875,53.2145858,6.5887355,"Scholen VO kwart tijd open, basisscholen 100% open, horeca open (jun '20)"
+128,Groningen Airport Eelde,2020 juni,6,5,1,0,0,0,0,0,0,25,2696,2725,2594 – 2855,53.2145858,6.5887355,"Scholen VO kwart tijd open, basisscholen 100% open, horeca open (jun '20)"
+129,Groningen Airport Eelde,2020 juni,6,5,1,0,0,0,0,0,0,26,2659,2717,2577 – 2857,53.2145858,6.5887355,"Scholen VO kwart tijd open, basisscholen 100% open, horeca open (jun '20)"
+130,Amsterdam Airport Schiphol,2020 juli,15702,7831,7871,1338857,608849,730008,1114398,224459,0,27,2638,2723,2544 – 2902,52.3105386,4.7682744,Anderhalve meter zomer (jul '20)
+131,Amsterdam Airport Schiphol,2020 juli,15702,7831,7871,1338857,608849,730008,1114398,224459,0,28,2619,2719,2515 – 2923,52.3105386,4.7682744,Anderhalve meter zomer (jul '20)
+132,Amsterdam Airport Schiphol,2020 juli,15702,7831,7871,1338857,608849,730008,1114398,224459,0,29,2528,2720,2507 – 2934,52.3105386,4.7682744,Anderhalve meter zomer (jul '20)
+133,Amsterdam Airport Schiphol,2020 juli,15702,7831,7871,1338857,608849,730008,1114398,224459,0,30,2673,2707,2515 – 2900,52.3105386,4.7682744,Anderhalve meter zomer (jul '20)
+134,Rotterdam The Hague Airport,2020 juli,1032,522,510,78468,32511,45957,78468,0,0,27,2638,2723,2544 – 2902,51.9555086,4.4398832,Anderhalve meter zomer (jul '20)
+135,Rotterdam The Hague Airport,2020 juli,1032,522,510,78468,32511,45957,78468,0,0,28,2619,2719,2515 – 2923,51.9555086,4.4398832,Anderhalve meter zomer (jul '20)
+136,Rotterdam The Hague Airport,2020 juli,1032,522,510,78468,32511,45957,78468,0,0,29,2528,2720,2507 – 2934,51.9555086,4.4398832,Anderhalve meter zomer (jul '20)
+137,Rotterdam The Hague Airport,2020 juli,1032,522,510,78468,32511,45957,78468,0,0,30,2673,2707,2515 – 2900,51.9555086,4.4398832,Anderhalve meter zomer (jul '20)
+138,Eindhoven Airport,2020 juli,2292,1152,1140,257515,112453,145062,257515,0,0,27,2638,2723,2544 – 2902,51.4583691,5.3920556,Anderhalve meter zomer (jul '20)
+139,Eindhoven Airport,2020 juli,2292,1152,1140,257515,112453,145062,257515,0,0,28,2619,2719,2515 – 2923,51.4583691,5.3920556,Anderhalve meter zomer (jul '20)
+140,Eindhoven Airport,2020 juli,2292,1152,1140,257515,112453,145062,257515,0,0,29,2528,2720,2507 – 2934,51.4583691,5.3920556,Anderhalve meter zomer (jul '20)
+141,Eindhoven Airport,2020 juli,2292,1152,1140,257515,112453,145062,257515,0,0,30,2673,2707,2515 – 2900,51.4583691,5.3920556,Anderhalve meter zomer (jul '20)
+142,Maastricht Aachen Airport,2020 juli,621,311,310,12952,5620,7332,12952,0,0,27,2638,2723,2544 – 2902,50.9123207,5.7694951,Anderhalve meter zomer (jul '20)
+143,Maastricht Aachen Airport,2020 juli,621,311,310,12952,5620,7332,12952,0,0,28,2619,2719,2515 – 2923,50.9123207,5.7694951,Anderhalve meter zomer (jul '20)
+144,Maastricht Aachen Airport,2020 juli,621,311,310,12952,5620,7332,12952,0,0,29,2528,2720,2507 – 2934,50.9123207,5.7694951,Anderhalve meter zomer (jul '20)
+145,Maastricht Aachen Airport,2020 juli,621,311,310,12952,5620,7332,12952,0,0,30,2673,2707,2515 – 2900,50.9123207,5.7694951,Anderhalve meter zomer (jul '20)
+146,Groningen Airport Eelde,2020 juli,54,28,26,2723,1081,1642,2723,0,0,27,2638,2723,2544 – 2902,53.2145858,6.5887355,Anderhalve meter zomer (jul '20)
+147,Groningen Airport Eelde,2020 juli,54,28,26,2723,1081,1642,2723,0,0,28,2619,2719,2515 – 2923,53.2145858,6.5887355,Anderhalve meter zomer (jul '20)
+148,Groningen Airport Eelde,2020 juli,54,28,26,2723,1081,1642,2723,0,0,29,2528,2720,2507 – 2934,53.2145858,6.5887355,Anderhalve meter zomer (jul '20)
+149,Groningen Airport Eelde,2020 juli,54,28,26,2723,1081,1642,2723,0,0,30,2673,2707,2515 – 2900,53.2145858,6.5887355,Anderhalve meter zomer (jul '20)
+150,Amsterdam Airport Schiphol,2020 augustus,23125,11545,11580,1854786,983983,870803,1608511,246275,0,31,2666,2687,2492 – 2882,52.3105386,4.7682744,"Max. 3 bezoekers, start online schooljaar (aug '20)"
+151,Amsterdam Airport Schiphol,2020 augustus,23125,11545,11580,1854786,983983,870803,1608511,246275,0,32,2642,2682,2483 – 2881,52.3105386,4.7682744,"Max. 3 bezoekers, start online schooljaar (aug '20)"
+152,Amsterdam Airport Schiphol,2020 augustus,23125,11545,11580,1854786,983983,870803,1608511,246275,0,33,3209,2669,2481 – 2857,52.3105386,4.7682744,"Max. 3 bezoekers, start online schooljaar (aug '20)"
+153,Amsterdam Airport Schiphol,2020 augustus,23125,11545,11580,1854786,983983,870803,1608511,246275,0,34,2856,2663,2510 – 2815,52.3105386,4.7682744,"Max. 3 bezoekers, start online schooljaar (aug '20)"
+154,Amsterdam Airport Schiphol,2020 augustus,23125,11545,11580,1854786,983983,870803,1608511,246275,0,35,2735,2667,2526 – 2807,52.3105386,4.7682744,"Max. 3 bezoekers, start online schooljaar (aug '20)"
+155,Rotterdam The Hague Airport,2020 augustus,1071,527,544,74047,41749,32298,74047,0,0,31,2666,2687,2492 – 2882,51.9555086,4.4398832,"Max. 3 bezoekers, start online schooljaar (aug '20)"
+156,Rotterdam The Hague Airport,2020 augustus,1071,527,544,74047,41749,32298,74047,0,0,32,2642,2682,2483 – 2881,51.9555086,4.4398832,"Max. 3 bezoekers, start online schooljaar (aug '20)"
+157,Rotterdam The Hague Airport,2020 augustus,1071,527,544,74047,41749,32298,74047,0,0,33,3209,2669,2481 – 2857,51.9555086,4.4398832,"Max. 3 bezoekers, start online schooljaar (aug '20)"
+158,Rotterdam The Hague Airport,2020 augustus,1071,527,544,74047,41749,32298,74047,0,0,34,2856,2663,2510 – 2815,51.9555086,4.4398832,"Max. 3 bezoekers, start online schooljaar (aug '20)"
+159,Rotterdam The Hague Airport,2020 augustus,1071,527,544,74047,41749,32298,74047,0,0,35,2735,2667,2526 – 2807,51.9555086,4.4398832,"Max. 3 bezoekers, start online schooljaar (aug '20)"
+160,Eindhoven Airport,2020 augustus,2713,1352,1361,295053,162305,132748,295053,0,0,31,2666,2687,2492 – 2882,51.4583691,5.3920556,"Max. 3 bezoekers, start online schooljaar (aug '20)"
+161,Eindhoven Airport,2020 augustus,2713,1352,1361,295053,162305,132748,295053,0,0,32,2642,2682,2483 – 2881,51.4583691,5.3920556,"Max. 3 bezoekers, start online schooljaar (aug '20)"
+162,Eindhoven Airport,2020 augustus,2713,1352,1361,295053,162305,132748,295053,0,0,33,3209,2669,2481 – 2857,51.4583691,5.3920556,"Max. 3 bezoekers, start online schooljaar (aug '20)"
+163,Eindhoven Airport,2020 augustus,2713,1352,1361,295053,162305,132748,295053,0,0,34,2856,2663,2510 – 2815,51.4583691,5.3920556,"Max. 3 bezoekers, start online schooljaar (aug '20)"
+164,Eindhoven Airport,2020 augustus,2713,1352,1361,295053,162305,132748,295053,0,0,35,2735,2667,2526 – 2807,51.4583691,5.3920556,"Max. 3 bezoekers, start online schooljaar (aug '20)"
+165,Maastricht Aachen Airport,2020 augustus,615,310,305,16818,9354,7464,16814,4,0,31,2666,2687,2492 – 2882,50.9123207,5.7694951,"Max. 3 bezoekers, start online schooljaar (aug '20)"
+166,Maastricht Aachen Airport,2020 augustus,615,310,305,16818,9354,7464,16814,4,0,32,2642,2682,2483 – 2881,50.9123207,5.7694951,"Max. 3 bezoekers, start online schooljaar (aug '20)"
+167,Maastricht Aachen Airport,2020 augustus,615,310,305,16818,9354,7464,16814,4,0,33,3209,2669,2481 – 2857,50.9123207,5.7694951,"Max. 3 bezoekers, start online schooljaar (aug '20)"
+168,Maastricht Aachen Airport,2020 augustus,615,310,305,16818,9354,7464,16814,4,0,34,2856,2663,2510 – 2815,50.9123207,5.7694951,"Max. 3 bezoekers, start online schooljaar (aug '20)"
+169,Maastricht Aachen Airport,2020 augustus,615,310,305,16818,9354,7464,16814,4,0,35,2735,2667,2526 – 2807,50.9123207,5.7694951,"Max. 3 bezoekers, start online schooljaar (aug '20)"
+170,Groningen Airport Eelde,2020 augustus,51,26,25,2231,1310,921,2231,0,0,31,2666,2687,2492 – 2882,53.2145858,6.5887355,"Max. 3 bezoekers, start online schooljaar (aug '20)"
+171,Groningen Airport Eelde,2020 augustus,51,26,25,2231,1310,921,2231,0,0,32,2642,2682,2483 – 2881,53.2145858,6.5887355,"Max. 3 bezoekers, start online schooljaar (aug '20)"
+172,Groningen Airport Eelde,2020 augustus,51,26,25,2231,1310,921,2231,0,0,33,3209,2669,2481 – 2857,53.2145858,6.5887355,"Max. 3 bezoekers, start online schooljaar (aug '20)"
+173,Groningen Airport Eelde,2020 augustus,51,26,25,2231,1310,921,2231,0,0,34,2856,2663,2510 – 2815,53.2145858,6.5887355,"Max. 3 bezoekers, start online schooljaar (aug '20)"
+174,Groningen Airport Eelde,2020 augustus,51,26,25,2231,1310,921,2231,0,0,35,2735,2667,2526 – 2807,53.2145858,6.5887355,"Max. 3 bezoekers, start online schooljaar (aug '20)"
+175,Amsterdam Airport Schiphol,2020 september,22162,11087,11075,1337741,684061,653680,1102721,235020,0,36,2692,2676,2549 – 2804,52.3105386,4.7682744,"Horeca om 22:00 dicht, registratieplicht contactberoepen (sep '20)"
+176,Amsterdam Airport Schiphol,2020 september,22162,11087,11075,1337741,684061,653680,1102721,235020,0,37,2742,2698,2564 – 2832,52.3105386,4.7682744,"Horeca om 22:00 dicht, registratieplicht contactberoepen (sep '20)"
+177,Amsterdam Airport Schiphol,2020 september,22162,11087,11075,1337741,684061,653680,1102721,235020,0,38,2721,2729,2585 – 2873,52.3105386,4.7682744,"Horeca om 22:00 dicht, registratieplicht contactberoepen (sep '20)"
+178,Amsterdam Airport Schiphol,2020 september,22162,11087,11075,1337741,684061,653680,1102721,235020,0,39,2891,2752,2618 – 2886,52.3105386,4.7682744,"Horeca om 22:00 dicht, registratieplicht contactberoepen (sep '20)"
+179,Rotterdam The Hague Airport,2020 september,635,315,320,32047,17087,14960,31135,912,0,36,2692,2676,2549 – 2804,51.9555086,4.4398832,"Horeca om 22:00 dicht, registratieplicht contactberoepen (sep '20)"
+180,Rotterdam The Hague Airport,2020 september,635,315,320,32047,17087,14960,31135,912,0,37,2742,2698,2564 – 2832,51.9555086,4.4398832,"Horeca om 22:00 dicht, registratieplicht contactberoepen (sep '20)"
+181,Rotterdam The Hague Airport,2020 september,635,315,320,32047,17087,14960,31135,912,0,38,2721,2729,2585 – 2873,51.9555086,4.4398832,"Horeca om 22:00 dicht, registratieplicht contactberoepen (sep '20)"
+182,Rotterdam The Hague Airport,2020 september,635,315,320,32047,17087,14960,31135,912,0,39,2891,2752,2618 – 2886,51.9555086,4.4398832,"Horeca om 22:00 dicht, registratieplicht contactberoepen (sep '20)"
+183,Eindhoven Airport,2020 september,1947,973,974,171375,90205,81170,171375,0,0,36,2692,2676,2549 – 2804,51.4583691,5.3920556,"Horeca om 22:00 dicht, registratieplicht contactberoepen (sep '20)"
+184,Eindhoven Airport,2020 september,1947,973,974,171375,90205,81170,171375,0,0,37,2742,2698,2564 – 2832,51.4583691,5.3920556,"Horeca om 22:00 dicht, registratieplicht contactberoepen (sep '20)"
+185,Eindhoven Airport,2020 september,1947,973,974,171375,90205,81170,171375,0,0,38,2721,2729,2585 – 2873,51.4583691,5.3920556,"Horeca om 22:00 dicht, registratieplicht contactberoepen (sep '20)"
+186,Eindhoven Airport,2020 september,1947,973,974,171375,90205,81170,171375,0,0,39,2891,2752,2618 – 2886,51.4583691,5.3920556,"Horeca om 22:00 dicht, registratieplicht contactberoepen (sep '20)"
+187,Maastricht Aachen Airport,2020 september,516,257,259,5511,3189,2322,5510,1,0,36,2692,2676,2549 – 2804,50.9123207,5.7694951,"Horeca om 22:00 dicht, registratieplicht contactberoepen (sep '20)"
+188,Maastricht Aachen Airport,2020 september,516,257,259,5511,3189,2322,5510,1,0,37,2742,2698,2564 – 2832,50.9123207,5.7694951,"Horeca om 22:00 dicht, registratieplicht contactberoepen (sep '20)"
+189,Maastricht Aachen Airport,2020 september,516,257,259,5511,3189,2322,5510,1,0,38,2721,2729,2585 – 2873,50.9123207,5.7694951,"Horeca om 22:00 dicht, registratieplicht contactberoepen (sep '20)"
+190,Maastricht Aachen Airport,2020 september,516,257,259,5511,3189,2322,5510,1,0,39,2891,2752,2618 – 2886,50.9123207,5.7694951,"Horeca om 22:00 dicht, registratieplicht contactberoepen (sep '20)"
+191,Groningen Airport Eelde,2020 september,30,14,16,589,368,221,589,0,0,36,2692,2676,2549 – 2804,53.2145858,6.5887355,"Horeca om 22:00 dicht, registratieplicht contactberoepen (sep '20)"
+192,Groningen Airport Eelde,2020 september,30,14,16,589,368,221,589,0,0,37,2742,2698,2564 – 2832,53.2145858,6.5887355,"Horeca om 22:00 dicht, registratieplicht contactberoepen (sep '20)"
+193,Groningen Airport Eelde,2020 september,30,14,16,589,368,221,589,0,0,38,2721,2729,2585 – 2873,53.2145858,6.5887355,"Horeca om 22:00 dicht, registratieplicht contactberoepen (sep '20)"
+194,Groningen Airport Eelde,2020 september,30,14,16,589,368,221,589,0,0,39,2891,2752,2618 – 2886,53.2145858,6.5887355,"Horeca om 22:00 dicht, registratieplicht contactberoepen (sep '20)"
+195,Amsterdam Airport Schiphol,2020 oktober,19614,9801,9813,1143483,576128,567355,874489,268994,0,40,3002,2786,2628 – 2943,52.3105386,4.7682744,Gedeeltelijke lockdown: verbod op evenementen en sluiting horeca (okt '20)
+196,Amsterdam Airport Schiphol,2020 oktober,19614,9801,9813,1143483,576128,567355,874489,268994,0,41,3022,2807,2655 – 2960,52.3105386,4.7682744,Gedeeltelijke lockdown: verbod op evenementen en sluiting horeca (okt '20)
+197,Amsterdam Airport Schiphol,2020 oktober,19614,9801,9813,1143483,576128,567355,874489,268994,0,42,3222,2839,2677 – 3001,52.3105386,4.7682744,Gedeeltelijke lockdown: verbod op evenementen en sluiting horeca (okt '20)
+198,Amsterdam Airport Schiphol,2020 oktober,19614,9801,9813,1143483,576128,567355,874489,268994,0,43,3448,2862,2661 – 3063,52.3105386,4.7682744,Gedeeltelijke lockdown: verbod op evenementen en sluiting horeca (okt '20)
+199,Rotterdam The Hague Airport,2020 oktober,353,176,177,21811,11445,10366,19216,2595,0,40,3002,2786,2628 – 2943,51.9555086,4.4398832,Gedeeltelijke lockdown: verbod op evenementen en sluiting horeca (okt '20)
+200,Rotterdam The Hague Airport,2020 oktober,353,176,177,21811,11445,10366,19216,2595,0,41,3022,2807,2655 – 2960,51.9555086,4.4398832,Gedeeltelijke lockdown: verbod op evenementen en sluiting horeca (okt '20)
+201,Rotterdam The Hague Airport,2020 oktober,353,176,177,21811,11445,10366,19216,2595,0,42,3222,2839,2677 – 3001,51.9555086,4.4398832,Gedeeltelijke lockdown: verbod op evenementen en sluiting horeca (okt '20)
+202,Rotterdam The Hague Airport,2020 oktober,353,176,177,21811,11445,10366,19216,2595,0,43,3448,2862,2661 – 3063,51.9555086,4.4398832,Gedeeltelijke lockdown: verbod op evenementen en sluiting horeca (okt '20)
+203,Eindhoven Airport,2020 oktober,1451,724,727,133057,68212,64845,133057,0,0,40,3002,2786,2628 – 2943,51.4583691,5.3920556,Gedeeltelijke lockdown: verbod op evenementen en sluiting horeca (okt '20)
+204,Eindhoven Airport,2020 oktober,1451,724,727,133057,68212,64845,133057,0,0,41,3022,2807,2655 – 2960,51.4583691,5.3920556,Gedeeltelijke lockdown: verbod op evenementen en sluiting horeca (okt '20)
+205,Eindhoven Airport,2020 oktober,1451,724,727,133057,68212,64845,133057,0,0,42,3222,2839,2677 – 3001,51.4583691,5.3920556,Gedeeltelijke lockdown: verbod op evenementen en sluiting horeca (okt '20)
+206,Eindhoven Airport,2020 oktober,1451,724,727,133057,68212,64845,133057,0,0,43,3448,2862,2661 – 3063,51.4583691,5.3920556,Gedeeltelijke lockdown: verbod op evenementen en sluiting horeca (okt '20)
+207,Maastricht Aachen Airport,2020 oktober,587,292,295,4710,2583,2127,4710,0,0,40,3002,2786,2628 – 2943,50.9123207,5.7694951,Gedeeltelijke lockdown: verbod op evenementen en sluiting horeca (okt '20)
+208,Maastricht Aachen Airport,2020 oktober,587,292,295,4710,2583,2127,4710,0,0,41,3022,2807,2655 – 2960,50.9123207,5.7694951,Gedeeltelijke lockdown: verbod op evenementen en sluiting horeca (okt '20)
+209,Maastricht Aachen Airport,2020 oktober,587,292,295,4710,2583,2127,4710,0,0,42,3222,2839,2677 – 3001,50.9123207,5.7694951,Gedeeltelijke lockdown: verbod op evenementen en sluiting horeca (okt '20)
+210,Maastricht Aachen Airport,2020 oktober,587,292,295,4710,2583,2127,4710,0,0,43,3448,2862,2661 – 3063,50.9123207,5.7694951,Gedeeltelijke lockdown: verbod op evenementen en sluiting horeca (okt '20)
+211,Groningen Airport Eelde,2020 oktober,23,17,6,62,31,31,62,0,0,40,3002,2786,2628 – 2943,53.2145858,6.5887355,Gedeeltelijke lockdown: verbod op evenementen en sluiting horeca (okt '20)
+212,Groningen Airport Eelde,2020 oktober,23,17,6,62,31,31,62,0,0,41,3022,2807,2655 – 2960,53.2145858,6.5887355,Gedeeltelijke lockdown: verbod op evenementen en sluiting horeca (okt '20)
+213,Groningen Airport Eelde,2020 oktober,23,17,6,62,31,31,62,0,0,42,3222,2839,2677 – 3001,53.2145858,6.5887355,Gedeeltelijke lockdown: verbod op evenementen en sluiting horeca (okt '20)
+214,Groningen Airport Eelde,2020 oktober,23,17,6,62,31,31,62,0,0,43,3448,2862,2661 – 3063,53.2145858,6.5887355,Gedeeltelijke lockdown: verbod op evenementen en sluiting horeca (okt '20)
+215,Amsterdam Airport Schiphol,2020 november,14858,7433,7425,900434,451046,449388,629150,271284,0,44,3687,2889,2683 – 3095,52.3105386,4.7682744,Verzwarende maatregelen (nov '20)
+216,Amsterdam Airport Schiphol,2020 november,14858,7433,7425,900434,451046,449388,629150,271284,0,45,3589,2902,2692 – 3111,52.3105386,4.7682744,Verzwarende maatregelen (nov '20)
+217,Amsterdam Airport Schiphol,2020 november,14858,7433,7425,900434,451046,449388,629150,271284,0,46,3580,2932,2710 – 3155,52.3105386,4.7682744,Verzwarende maatregelen (nov '20)
+218,Amsterdam Airport Schiphol,2020 november,14858,7433,7425,900434,451046,449388,629150,271284,0,47,3335,2972,2742 – 3202,52.3105386,4.7682744,Verzwarende maatregelen (nov '20)
+219,Amsterdam Airport Schiphol,2020 november,14858,7433,7425,900434,451046,449388,629150,271284,0,48,3405,3012,2762 – 3263,52.3105386,4.7682744,Verzwarende maatregelen (nov '20)
+220,Rotterdam The Hague Airport,2020 november,134,62,72,4761,2639,2122,2365,2396,0,44,3687,2889,2683 – 3095,51.9555086,4.4398832,Verzwarende maatregelen (nov '20)
+221,Rotterdam The Hague Airport,2020 november,134,62,72,4761,2639,2122,2365,2396,0,45,3589,2902,2692 – 3111,51.9555086,4.4398832,Verzwarende maatregelen (nov '20)
+222,Rotterdam The Hague Airport,2020 november,134,62,72,4761,2639,2122,2365,2396,0,46,3580,2932,2710 – 3155,51.9555086,4.4398832,Verzwarende maatregelen (nov '20)
+223,Rotterdam The Hague Airport,2020 november,134,62,72,4761,2639,2122,2365,2396,0,47,3335,2972,2742 – 3202,51.9555086,4.4398832,Verzwarende maatregelen (nov '20)
+224,Rotterdam The Hague Airport,2020 november,134,62,72,4761,2639,2122,2365,2396,0,48,3405,3012,2762 – 3263,51.9555086,4.4398832,Verzwarende maatregelen (nov '20)
+225,Eindhoven Airport,2020 november,721,363,358,57737,31566,26171,57737,0,0,44,3687,2889,2683 – 3095,51.4583691,5.3920556,Verzwarende maatregelen (nov '20)
+226,Eindhoven Airport,2020 november,721,363,358,57737,31566,26171,57737,0,0,45,3589,2902,2692 – 3111,51.4583691,5.3920556,Verzwarende maatregelen (nov '20)
+227,Eindhoven Airport,2020 november,721,363,358,57737,31566,26171,57737,0,0,46,3580,2932,2710 – 3155,51.4583691,5.3920556,Verzwarende maatregelen (nov '20)
+228,Eindhoven Airport,2020 november,721,363,358,57737,31566,26171,57737,0,0,47,3335,2972,2742 – 3202,51.4583691,5.3920556,Verzwarende maatregelen (nov '20)
+229,Eindhoven Airport,2020 november,721,363,358,57737,31566,26171,57737,0,0,48,3405,3012,2762 – 3263,51.4583691,5.3920556,Verzwarende maatregelen (nov '20)
+230,Maastricht Aachen Airport,2020 november,548,277,271,2139,1270,869,2137,2,0,44,3687,2889,2683 – 3095,50.9123207,5.7694951,Verzwarende maatregelen (nov '20)
+231,Maastricht Aachen Airport,2020 november,548,277,271,2139,1270,869,2137,2,0,45,3589,2902,2692 – 3111,50.9123207,5.7694951,Verzwarende maatregelen (nov '20)
+232,Maastricht Aachen Airport,2020 november,548,277,271,2139,1270,869,2137,2,0,46,3580,2932,2710 – 3155,50.9123207,5.7694951,Verzwarende maatregelen (nov '20)
+233,Maastricht Aachen Airport,2020 november,548,277,271,2139,1270,869,2137,2,0,47,3335,2972,2742 – 3202,50.9123207,5.7694951,Verzwarende maatregelen (nov '20)
+234,Maastricht Aachen Airport,2020 november,548,277,271,2139,1270,869,2137,2,0,48,3405,3012,2762 – 3263,50.9123207,5.7694951,Verzwarende maatregelen (nov '20)
+235,Groningen Airport Eelde,2020 november,22,11,11,0,0,0,0,0,0,44,3687,2889,2683 – 3095,53.2145858,6.5887355,Verzwarende maatregelen (nov '20)
+236,Groningen Airport Eelde,2020 november,22,11,11,0,0,0,0,0,0,45,3589,2902,2692 – 3111,53.2145858,6.5887355,Verzwarende maatregelen (nov '20)
+237,Groningen Airport Eelde,2020 november,22,11,11,0,0,0,0,0,0,46,3580,2932,2710 – 3155,53.2145858,6.5887355,Verzwarende maatregelen (nov '20)
+238,Groningen Airport Eelde,2020 november,22,11,11,0,0,0,0,0,0,47,3335,2972,2742 – 3202,53.2145858,6.5887355,Verzwarende maatregelen (nov '20)
+239,Groningen Airport Eelde,2020 november,22,11,11,0,0,0,0,0,0,48,3405,3012,2762 – 3263,53.2145858,6.5887355,Verzwarende maatregelen (nov '20)
+240,Amsterdam Airport Schiphol,2020 december,15896,7956,7940,1233043,580297,652746,836069,396974,0,49,3530,3037,2742 – 3332,52.3105386,4.7682744,Lockdown: sluiting niet essentiële winkels en (sport)scholen (dec '20)
+241,Amsterdam Airport Schiphol,2020 december,15896,7956,7940,1233043,580297,652746,836069,396974,0,50,3615,3100,2800 – 3399,52.3105386,4.7682744,Lockdown: sluiting niet essentiële winkels en (sport)scholen (dec '20)
+242,Amsterdam Airport Schiphol,2020 december,15896,7956,7940,1233043,580297,652746,836069,396974,0,51,3909,3166,2830 – 3501,52.3105386,4.7682744,Lockdown: sluiting niet essentiële winkels en (sport)scholen (dec '20)
+243,Amsterdam Airport Schiphol,2020 december,15896,7956,7940,1233043,580297,652746,836069,396974,0,52,3867,3222,2871 – 3573,52.3105386,4.7682744,Lockdown: sluiting niet essentiële winkels en (sport)scholen (dec '20)
+244,Rotterdam The Hague Airport,2020 december,115,63,52,4590,1940,2650,325,4265,0,49,3530,3037,2742 – 3332,51.9555086,4.4398832,Lockdown: sluiting niet essentiële winkels en (sport)scholen (dec '20)
+245,Rotterdam The Hague Airport,2020 december,115,63,52,4590,1940,2650,325,4265,0,50,3615,3100,2800 – 3399,51.9555086,4.4398832,Lockdown: sluiting niet essentiële winkels en (sport)scholen (dec '20)
+246,Rotterdam The Hague Airport,2020 december,115,63,52,4590,1940,2650,325,4265,0,51,3909,3166,2830 – 3501,51.9555086,4.4398832,Lockdown: sluiting niet essentiële winkels en (sport)scholen (dec '20)
+247,Rotterdam The Hague Airport,2020 december,115,63,52,4590,1940,2650,325,4265,0,52,3867,3222,2871 – 3573,51.9555086,4.4398832,Lockdown: sluiting niet essentiële winkels en (sport)scholen (dec '20)
+248,Eindhoven Airport,2020 december,769,387,382,66544,26518,40026,66544,0,0,49,3530,3037,2742 – 3332,51.4583691,5.3920556,Lockdown: sluiting niet essentiële winkels en (sport)scholen (dec '20)
+249,Eindhoven Airport,2020 december,769,387,382,66544,26518,40026,66544,0,0,50,3615,3100,2800 – 3399,51.4583691,5.3920556,Lockdown: sluiting niet essentiële winkels en (sport)scholen (dec '20)
+250,Eindhoven Airport,2020 december,769,387,382,66544,26518,40026,66544,0,0,51,3909,3166,2830 – 3501,51.4583691,5.3920556,Lockdown: sluiting niet essentiële winkels en (sport)scholen (dec '20)
+251,Eindhoven Airport,2020 december,769,387,382,66544,26518,40026,66544,0,0,52,3867,3222,2871 – 3573,51.4583691,5.3920556,Lockdown: sluiting niet essentiële winkels en (sport)scholen (dec '20)
+252,Maastricht Aachen Airport,2020 december,535,274,261,1841,765,1076,1840,0,1,49,3530,3037,2742 – 3332,50.9123207,5.7694951,Lockdown: sluiting niet essentiële winkels en (sport)scholen (dec '20)
+253,Maastricht Aachen Airport,2020 december,535,274,261,1841,765,1076,1840,0,1,50,3615,3100,2800 – 3399,50.9123207,5.7694951,Lockdown: sluiting niet essentiële winkels en (sport)scholen (dec '20)
+254,Maastricht Aachen Airport,2020 december,535,274,261,1841,765,1076,1840,0,1,51,3909,3166,2830 – 3501,50.9123207,5.7694951,Lockdown: sluiting niet essentiële winkels en (sport)scholen (dec '20)
+255,Maastricht Aachen Airport,2020 december,535,274,261,1841,765,1076,1840,0,1,52,3867,3222,2871 – 3573,50.9123207,5.7694951,Lockdown: sluiting niet essentiële winkels en (sport)scholen (dec '20)
+256,Groningen Airport Eelde,2020 december,10,4,6,0,0,0,0,0,0,49,3530,3037,2742 – 3332,53.2145858,6.5887355,Lockdown: sluiting niet essentiële winkels en (sport)scholen (dec '20)
+257,Groningen Airport Eelde,2020 december,10,4,6,0,0,0,0,0,0,50,3615,3100,2800 – 3399,53.2145858,6.5887355,Lockdown: sluiting niet essentiële winkels en (sport)scholen (dec '20)
+258,Groningen Airport Eelde,2020 december,10,4,6,0,0,0,0,0,0,51,3909,3166,2830 – 3501,53.2145858,6.5887355,Lockdown: sluiting niet essentiële winkels en (sport)scholen (dec '20)
+259,Groningen Airport Eelde,2020 december,10,4,6,0,0,0,0,0,0,52,3867,3222,2871 – 3573,53.2145858,6.5887355,Lockdown: sluiting niet essentiële winkels en (sport)scholen (dec '20)
+260,Amsterdam Airport Schiphol,2021 januari,14666,7317,7349,869129,463793,405336,553464,315665,0,53,4103,3266,2906 – 3625,52.3105386,4.7682744,Invoering avondklok (jan '21)
+261,Amsterdam Airport Schiphol,2021 januari,14666,7317,7349,869129,463793,405336,553464,315665,0,1,4143,3309,2940 – 3677,52.3105386,4.7682744,Invoering avondklok (jan '21)
+262,Amsterdam Airport Schiphol,2021 januari,14666,7317,7349,869129,463793,405336,553464,315665,0,2,3852,3343,2962 – 3724,52.3105386,4.7682744,Invoering avondklok (jan '21)
+263,Amsterdam Airport Schiphol,2021 januari,14666,7317,7349,869129,463793,405336,553464,315665,0,3,3862,3376,2978 – 3775,52.3105386,4.7682744,Invoering avondklok (jan '21)
+264,Amsterdam Airport Schiphol,2021 januari,14666,7317,7349,869129,463793,405336,553464,315665,0,4,3716,3425,3040 – 3809,52.3105386,4.7682744,Invoering avondklok (jan '21)
+265,Rotterdam The Hague Airport,2021 januari,181,83,98,3311,2053,1258,34,3277,0,53,4103,3266,2906 – 3625,51.9555086,4.4398832,Invoering avondklok (jan '21)
+266,Rotterdam The Hague Airport,2021 januari,181,83,98,3311,2053,1258,34,3277,0,1,4143,3309,2940 – 3677,51.9555086,4.4398832,Invoering avondklok (jan '21)
+267,Rotterdam The Hague Airport,2021 januari,181,83,98,3311,2053,1258,34,3277,0,2,3852,3343,2962 – 3724,51.9555086,4.4398832,Invoering avondklok (jan '21)
+268,Rotterdam The Hague Airport,2021 januari,181,83,98,3311,2053,1258,34,3277,0,3,3862,3376,2978 – 3775,51.9555086,4.4398832,Invoering avondklok (jan '21)
+269,Rotterdam The Hague Airport,2021 januari,181,83,98,3311,2053,1258,34,3277,0,4,3716,3425,3040 – 3809,51.9555086,4.4398832,Invoering avondklok (jan '21)
+270,Eindhoven Airport,2021 januari,572,282,290,36128,22761,13367,36128,0,0,53,4103,3266,2906 – 3625,51.4583691,5.3920556,Invoering avondklok (jan '21)
+271,Eindhoven Airport,2021 januari,572,282,290,36128,22761,13367,36128,0,0,1,4143,3309,2940 – 3677,51.4583691,5.3920556,Invoering avondklok (jan '21)
+272,Eindhoven Airport,2021 januari,572,282,290,36128,22761,13367,36128,0,0,2,3852,3343,2962 – 3724,51.4583691,5.3920556,Invoering avondklok (jan '21)
+273,Eindhoven Airport,2021 januari,572,282,290,36128,22761,13367,36128,0,0,3,3862,3376,2978 – 3775,51.4583691,5.3920556,Invoering avondklok (jan '21)
+274,Eindhoven Airport,2021 januari,572,282,290,36128,22761,13367,36128,0,0,4,3716,3425,3040 – 3809,51.4583691,5.3920556,Invoering avondklok (jan '21)
+275,Maastricht Aachen Airport,2021 januari,468,234,234,1049,625,424,1049,0,0,53,4103,3266,2906 – 3625,50.9123207,5.7694951,Invoering avondklok (jan '21)
+276,Maastricht Aachen Airport,2021 januari,468,234,234,1049,625,424,1049,0,0,1,4143,3309,2940 – 3677,50.9123207,5.7694951,Invoering avondklok (jan '21)
+277,Maastricht Aachen Airport,2021 januari,468,234,234,1049,625,424,1049,0,0,2,3852,3343,2962 – 3724,50.9123207,5.7694951,Invoering avondklok (jan '21)
+278,Maastricht Aachen Airport,2021 januari,468,234,234,1049,625,424,1049,0,0,3,3862,3376,2978 – 3775,50.9123207,5.7694951,Invoering avondklok (jan '21)
+279,Maastricht Aachen Airport,2021 januari,468,234,234,1049,625,424,1049,0,0,4,3716,3425,3040 – 3809,50.9123207,5.7694951,Invoering avondklok (jan '21)
+280,Groningen Airport Eelde,2021 januari,20,14,6,0,0,0,0,0,0,53,4103,3266,2906 – 3625,53.2145858,6.5887355,Invoering avondklok (jan '21)
+281,Groningen Airport Eelde,2021 januari,20,14,6,0,0,0,0,0,0,1,4143,3309,2940 – 3677,53.2145858,6.5887355,Invoering avondklok (jan '21)
+282,Groningen Airport Eelde,2021 januari,20,14,6,0,0,0,0,0,0,2,3852,3343,2962 – 3724,53.2145858,6.5887355,Invoering avondklok (jan '21)
+283,Groningen Airport Eelde,2021 januari,20,14,6,0,0,0,0,0,0,3,3862,3376,2978 – 3775,53.2145858,6.5887355,Invoering avondklok (jan '21)
+284,Groningen Airport Eelde,2021 januari,20,14,6,0,0,0,0,0,0,4,3716,3425,3040 – 3809,53.2145858,6.5887355,Invoering avondklok (jan '21)
+285,Amsterdam Airport Schiphol,2021 februari,10655,5328,5327,505194,253143,252051,327631,177563,0,5,3654,3440,3060 – 3821,52.3105386,4.7682744,"Basisscholen open, click-and-collect niet-essentiële winkels (feb '21)"
+286,Amsterdam Airport Schiphol,2021 februari,10655,5328,5327,505194,253143,252051,327631,177563,0,6,3550,3434,3012 – 3856,52.3105386,4.7682744,"Basisscholen open, click-and-collect niet-essentiële winkels (feb '21)"
+287,Amsterdam Airport Schiphol,2021 februari,10655,5328,5327,505194,253143,252051,327631,177563,0,7,3528,3441,2949 – 3934,52.3105386,4.7682744,"Basisscholen open, click-and-collect niet-essentiële winkels (feb '21)"
+288,Amsterdam Airport Schiphol,2021 februari,10655,5328,5327,505194,253143,252051,327631,177563,0,8,3207,3420,2884 – 3955,52.3105386,4.7682744,"Basisscholen open, click-and-collect niet-essentiële winkels (feb '21)"
+289,Rotterdam The Hague Airport,2021 februari,144,74,70,2871,1508,1363,0,2871,0,5,3654,3440,3060 – 3821,51.9555086,4.4398832,"Basisscholen open, click-and-collect niet-essentiële winkels (feb '21)"
+290,Rotterdam The Hague Airport,2021 februari,144,74,70,2871,1508,1363,0,2871,0,6,3550,3434,3012 – 3856,51.9555086,4.4398832,"Basisscholen open, click-and-collect niet-essentiële winkels (feb '21)"
+291,Rotterdam The Hague Airport,2021 februari,144,74,70,2871,1508,1363,0,2871,0,7,3528,3441,2949 – 3934,51.9555086,4.4398832,"Basisscholen open, click-and-collect niet-essentiële winkels (feb '21)"
+292,Rotterdam The Hague Airport,2021 februari,144,74,70,2871,1508,1363,0,2871,0,8,3207,3420,2884 – 3955,51.9555086,4.4398832,"Basisscholen open, click-and-collect niet-essentiële winkels (feb '21)"
+293,Eindhoven Airport,2021 februari,169,86,83,11314,5599,5715,10985,329,0,5,3654,3440,3060 – 3821,51.4583691,5.3920556,"Basisscholen open, click-and-collect niet-essentiële winkels (feb '21)"
+294,Eindhoven Airport,2021 februari,169,86,83,11314,5599,5715,10985,329,0,6,3550,3434,3012 – 3856,51.4583691,5.3920556,"Basisscholen open, click-and-collect niet-essentiële winkels (feb '21)"
+295,Eindhoven Airport,2021 februari,169,86,83,11314,5599,5715,10985,329,0,7,3528,3441,2949 – 3934,51.4583691,5.3920556,"Basisscholen open, click-and-collect niet-essentiële winkels (feb '21)"
+296,Eindhoven Airport,2021 februari,169,86,83,11314,5599,5715,10985,329,0,8,3207,3420,2884 – 3955,51.4583691,5.3920556,"Basisscholen open, click-and-collect niet-essentiële winkels (feb '21)"
+297,Maastricht Aachen Airport,2021 februari,537,267,270,448,346,102,447,0,1,5,3654,3440,3060 – 3821,50.9123207,5.7694951,"Basisscholen open, click-and-collect niet-essentiële winkels (feb '21)"
+298,Maastricht Aachen Airport,2021 februari,537,267,270,448,346,102,447,0,1,6,3550,3434,3012 – 3856,50.9123207,5.7694951,"Basisscholen open, click-and-collect niet-essentiële winkels (feb '21)"
+299,Maastricht Aachen Airport,2021 februari,537,267,270,448,346,102,447,0,1,7,3528,3441,2949 – 3934,50.9123207,5.7694951,"Basisscholen open, click-and-collect niet-essentiële winkels (feb '21)"
+300,Maastricht Aachen Airport,2021 februari,537,267,270,448,346,102,447,0,1,8,3207,3420,2884 – 3955,50.9123207,5.7694951,"Basisscholen open, click-and-collect niet-essentiële winkels (feb '21)"
+301,Groningen Airport Eelde,2021 februari,23,8,15,0,0,0,0,0,0,5,3654,3440,3060 – 3821,53.2145858,6.5887355,"Basisscholen open, click-and-collect niet-essentiële winkels (feb '21)"
+302,Groningen Airport Eelde,2021 februari,23,8,15,0,0,0,0,0,0,6,3550,3434,3012 – 3856,53.2145858,6.5887355,"Basisscholen open, click-and-collect niet-essentiële winkels (feb '21)"
+303,Groningen Airport Eelde,2021 februari,23,8,15,0,0,0,0,0,0,7,3528,3441,2949 – 3934,53.2145858,6.5887355,"Basisscholen open, click-and-collect niet-essentiële winkels (feb '21)"
+304,Groningen Airport Eelde,2021 februari,23,8,15,0,0,0,0,0,0,8,3207,3420,2884 – 3955,53.2145858,6.5887355,"Basisscholen open, click-and-collect niet-essentiële winkels (feb '21)"
+305,Amsterdam Airport Schiphol,2021 maart,12217,6112,6105,660176,331608,328568,430955,229221,0,9,3105,3384,2838 – 3931,52.3105386,4.7682744,"Scholen gedeeltelijk open, contactberoepen toegestaan, winkelen op afspraak (mrt '21)"
+306,Amsterdam Airport Schiphol,2021 maart,12217,6112,6105,660176,331608,328568,430955,229221,0,10,3246,3347,2817 – 3877,52.3105386,4.7682744,"Scholen gedeeltelijk open, contactberoepen toegestaan, winkelen op afspraak (mrt '21)"
+307,Amsterdam Airport Schiphol,2021 maart,12217,6112,6105,660176,331608,328568,430955,229221,0,11,3042,3285,2787 – 3782,52.3105386,4.7682744,"Scholen gedeeltelijk open, contactberoepen toegestaan, winkelen op afspraak (mrt '21)"
+308,Amsterdam Airport Schiphol,2021 maart,12217,6112,6105,660176,331608,328568,430955,229221,0,12,3044,3205,2742 – 3668,52.3105386,4.7682744,"Scholen gedeeltelijk open, contactberoepen toegestaan, winkelen op afspraak (mrt '21)"
+309,Rotterdam The Hague Airport,2021 maart,185,88,97,98,57,41,98,0,0,9,3105,3384,2838 – 3931,51.9555086,4.4398832,"Scholen gedeeltelijk open, contactberoepen toegestaan, winkelen op afspraak (mrt '21)"
+310,Rotterdam The Hague Airport,2021 maart,185,88,97,98,57,41,98,0,0,10,3246,3347,2817 – 3877,51.9555086,4.4398832,"Scholen gedeeltelijk open, contactberoepen toegestaan, winkelen op afspraak (mrt '21)"
+311,Rotterdam The Hague Airport,2021 maart,185,88,97,98,57,41,98,0,0,11,3042,3285,2787 – 3782,51.9555086,4.4398832,"Scholen gedeeltelijk open, contactberoepen toegestaan, winkelen op afspraak (mrt '21)"
+312,Rotterdam The Hague Airport,2021 maart,185,88,97,98,57,41,98,0,0,12,3044,3205,2742 – 3668,51.9555086,4.4398832,"Scholen gedeeltelijk open, contactberoepen toegestaan, winkelen op afspraak (mrt '21)"
+313,Eindhoven Airport,2021 maart,226,114,112,16000,7397,8603,16000,0,0,9,3105,3384,2838 – 3931,51.4583691,5.3920556,"Scholen gedeeltelijk open, contactberoepen toegestaan, winkelen op afspraak (mrt '21)"
+314,Eindhoven Airport,2021 maart,226,114,112,16000,7397,8603,16000,0,0,10,3246,3347,2817 – 3877,51.4583691,5.3920556,"Scholen gedeeltelijk open, contactberoepen toegestaan, winkelen op afspraak (mrt '21)"
+315,Eindhoven Airport,2021 maart,226,114,112,16000,7397,8603,16000,0,0,11,3042,3285,2787 – 3782,51.4583691,5.3920556,"Scholen gedeeltelijk open, contactberoepen toegestaan, winkelen op afspraak (mrt '21)"
+316,Eindhoven Airport,2021 maart,226,114,112,16000,7397,8603,16000,0,0,12,3044,3205,2742 – 3668,51.4583691,5.3920556,"Scholen gedeeltelijk open, contactberoepen toegestaan, winkelen op afspraak (mrt '21)"
+317,Maastricht Aachen Airport,2021 maart,560,281,279,373,197,176,373,0,0,9,3105,3384,2838 – 3931,50.9123207,5.7694951,"Scholen gedeeltelijk open, contactberoepen toegestaan, winkelen op afspraak (mrt '21)"
+318,Maastricht Aachen Airport,2021 maart,560,281,279,373,197,176,373,0,0,10,3246,3347,2817 – 3877,50.9123207,5.7694951,"Scholen gedeeltelijk open, contactberoepen toegestaan, winkelen op afspraak (mrt '21)"
+319,Maastricht Aachen Airport,2021 maart,560,281,279,373,197,176,373,0,0,11,3042,3285,2787 – 3782,50.9123207,5.7694951,"Scholen gedeeltelijk open, contactberoepen toegestaan, winkelen op afspraak (mrt '21)"
+320,Maastricht Aachen Airport,2021 maart,560,281,279,373,197,176,373,0,0,12,3044,3205,2742 – 3668,50.9123207,5.7694951,"Scholen gedeeltelijk open, contactberoepen toegestaan, winkelen op afspraak (mrt '21)"
+321,Groningen Airport Eelde,2021 maart,40,19,21,0,0,0,0,0,0,9,3105,3384,2838 – 3931,53.2145858,6.5887355,"Scholen gedeeltelijk open, contactberoepen toegestaan, winkelen op afspraak (mrt '21)"
+322,Groningen Airport Eelde,2021 maart,40,19,21,0,0,0,0,0,0,10,3246,3347,2817 – 3877,53.2145858,6.5887355,"Scholen gedeeltelijk open, contactberoepen toegestaan, winkelen op afspraak (mrt '21)"
+323,Groningen Airport Eelde,2021 maart,40,19,21,0,0,0,0,0,0,11,3042,3285,2787 – 3782,53.2145858,6.5887355,"Scholen gedeeltelijk open, contactberoepen toegestaan, winkelen op afspraak (mrt '21)"
+324,Groningen Airport Eelde,2021 maart,40,19,21,0,0,0,0,0,0,12,3044,3205,2742 – 3668,53.2145858,6.5887355,"Scholen gedeeltelijk open, contactberoepen toegestaan, winkelen op afspraak (mrt '21)"
+325,Amsterdam Airport Schiphol,2021 april,13720,6855,6865,786652,386810,399842,536128,250524,0,13,3178,3134,2733 – 3535,52.3105386,4.7682744,"Afschaffing avondklok, HBO, WO en terrassen gedeeltelijk open (apr '21)"
+326,Amsterdam Airport Schiphol,2021 april,13720,6855,6865,786652,386810,399842,536128,250524,0,14,3162,3054,2741 – 3366,52.3105386,4.7682744,"Afschaffing avondklok, HBO, WO en terrassen gedeeltelijk open (apr '21)"
+327,Amsterdam Airport Schiphol,2021 april,13720,6855,6865,786652,386810,399842,536128,250524,0,15,3137,2986,2748 – 3224,52.3105386,4.7682744,"Afschaffing avondklok, HBO, WO en terrassen gedeeltelijk open (apr '21)"
+328,Amsterdam Airport Schiphol,2021 april,13720,6855,6865,786652,386810,399842,536128,250524,0,16,3144,2944,2739 – 3148,52.3105386,4.7682744,"Afschaffing avondklok, HBO, WO en terrassen gedeeltelijk open (apr '21)"
+329,Rotterdam The Hague Airport,2021 april,195,100,95,1945,642,1303,1945,0,0,13,3178,3134,2733 – 3535,51.9555086,4.4398832,"Afschaffing avondklok, HBO, WO en terrassen gedeeltelijk open (apr '21)"
+330,Rotterdam The Hague Airport,2021 april,195,100,95,1945,642,1303,1945,0,0,14,3162,3054,2741 – 3366,51.9555086,4.4398832,"Afschaffing avondklok, HBO, WO en terrassen gedeeltelijk open (apr '21)"
+331,Rotterdam The Hague Airport,2021 april,195,100,95,1945,642,1303,1945,0,0,15,3137,2986,2748 – 3224,51.9555086,4.4398832,"Afschaffing avondklok, HBO, WO en terrassen gedeeltelijk open (apr '21)"
+332,Rotterdam The Hague Airport,2021 april,195,100,95,1945,642,1303,1945,0,0,16,3144,2944,2739 – 3148,51.9555086,4.4398832,"Afschaffing avondklok, HBO, WO en terrassen gedeeltelijk open (apr '21)"
+333,Eindhoven Airport,2021 april,373,190,183,27805,12367,15438,27805,0,0,13,3178,3134,2733 – 3535,51.4583691,5.3920556,"Afschaffing avondklok, HBO, WO en terrassen gedeeltelijk open (apr '21)"
+334,Eindhoven Airport,2021 april,373,190,183,27805,12367,15438,27805,0,0,14,3162,3054,2741 – 3366,51.4583691,5.3920556,"Afschaffing avondklok, HBO, WO en terrassen gedeeltelijk open (apr '21)"
+335,Eindhoven Airport,2021 april,373,190,183,27805,12367,15438,27805,0,0,15,3137,2986,2748 – 3224,51.4583691,5.3920556,"Afschaffing avondklok, HBO, WO en terrassen gedeeltelijk open (apr '21)"
+336,Eindhoven Airport,2021 april,373,190,183,27805,12367,15438,27805,0,0,16,3144,2944,2739 – 3148,51.4583691,5.3920556,"Afschaffing avondklok, HBO, WO en terrassen gedeeltelijk open (apr '21)"
+337,Maastricht Aachen Airport,2021 april,563,278,285,1474,571,903,1473,0,1,13,3178,3134,2733 – 3535,50.9123207,5.7694951,"Afschaffing avondklok, HBO, WO en terrassen gedeeltelijk open (apr '21)"
+338,Maastricht Aachen Airport,2021 april,563,278,285,1474,571,903,1473,0,1,14,3162,3054,2741 – 3366,50.9123207,5.7694951,"Afschaffing avondklok, HBO, WO en terrassen gedeeltelijk open (apr '21)"
+339,Maastricht Aachen Airport,2021 april,563,278,285,1474,571,903,1473,0,1,15,3137,2986,2748 – 3224,50.9123207,5.7694951,"Afschaffing avondklok, HBO, WO en terrassen gedeeltelijk open (apr '21)"
+340,Maastricht Aachen Airport,2021 april,563,278,285,1474,571,903,1473,0,1,16,3144,2944,2739 – 3148,50.9123207,5.7694951,"Afschaffing avondklok, HBO, WO en terrassen gedeeltelijk open (apr '21)"
+341,Groningen Airport Eelde,2021 april,40,20,20,0,0,0,0,0,0,13,3178,3134,2733 – 3535,53.2145858,6.5887355,"Afschaffing avondklok, HBO, WO en terrassen gedeeltelijk open (apr '21)"
+342,Groningen Airport Eelde,2021 april,40,20,20,0,0,0,0,0,0,14,3162,3054,2741 – 3366,53.2145858,6.5887355,"Afschaffing avondklok, HBO, WO en terrassen gedeeltelijk open (apr '21)"
+343,Groningen Airport Eelde,2021 april,40,20,20,0,0,0,0,0,0,15,3137,2986,2748 – 3224,53.2145858,6.5887355,"Afschaffing avondklok, HBO, WO en terrassen gedeeltelijk open (apr '21)"
+344,Groningen Airport Eelde,2021 april,40,20,20,0,0,0,0,0,0,16,3144,2944,2739 – 3148,53.2145858,6.5887355,"Afschaffing avondklok, HBO, WO en terrassen gedeeltelijk open (apr '21)"
+345,Amsterdam Airport Schiphol,2021 mei,15576,7790,7786,1106740,552079,554661,804575,302165,0,17,3123,2897,2705 – 3088,52.3105386,4.7682744,"Sporten toegestaan, buitenlocaties open, reserveren verplicht (mei '21)"
+346,Amsterdam Airport Schiphol,2021 mei,15576,7790,7786,1106740,552079,554661,804575,302165,0,18,3000,2869,2677 – 3060,52.3105386,4.7682744,"Sporten toegestaan, buitenlocaties open, reserveren verplicht (mei '21)"
+347,Amsterdam Airport Schiphol,2021 mei,15576,7790,7786,1106740,552079,554661,804575,302165,0,19,3014,2849,2660 – 3037,52.3105386,4.7682744,"Sporten toegestaan, buitenlocaties open, reserveren verplicht (mei '21)"
+348,Amsterdam Airport Schiphol,2021 mei,15576,7790,7786,1106740,552079,554661,804575,302165,0,20,2988,2821,2653 – 2989,52.3105386,4.7682744,"Sporten toegestaan, buitenlocaties open, reserveren verplicht (mei '21)"
+349,Amsterdam Airport Schiphol,2021 mei,15576,7790,7786,1106740,552079,554661,804575,302165,0,21,2806,2797,2646 – 2947,52.3105386,4.7682744,"Sporten toegestaan, buitenlocaties open, reserveren verplicht (mei '21)"
+350,Rotterdam The Hague Airport,2021 mei,267,132,135,8912,4045,4867,8912,0,0,17,3123,2897,2705 – 3088,51.9555086,4.4398832,"Sporten toegestaan, buitenlocaties open, reserveren verplicht (mei '21)"
+351,Rotterdam The Hague Airport,2021 mei,267,132,135,8912,4045,4867,8912,0,0,18,3000,2869,2677 – 3060,51.9555086,4.4398832,"Sporten toegestaan, buitenlocaties open, reserveren verplicht (mei '21)"
+352,Rotterdam The Hague Airport,2021 mei,267,132,135,8912,4045,4867,8912,0,0,19,3014,2849,2660 – 3037,51.9555086,4.4398832,"Sporten toegestaan, buitenlocaties open, reserveren verplicht (mei '21)"
+353,Rotterdam The Hague Airport,2021 mei,267,132,135,8912,4045,4867,8912,0,0,20,2988,2821,2653 – 2989,51.9555086,4.4398832,"Sporten toegestaan, buitenlocaties open, reserveren verplicht (mei '21)"
+354,Rotterdam The Hague Airport,2021 mei,267,132,135,8912,4045,4867,8912,0,0,21,2806,2797,2646 – 2947,51.9555086,4.4398832,"Sporten toegestaan, buitenlocaties open, reserveren verplicht (mei '21)"
+355,Eindhoven Airport,2021 mei,562,280,282,51798,24310,27488,51798,0,0,17,3123,2897,2705 – 3088,51.4583691,5.3920556,"Sporten toegestaan, buitenlocaties open, reserveren verplicht (mei '21)"
+356,Eindhoven Airport,2021 mei,562,280,282,51798,24310,27488,51798,0,0,18,3000,2869,2677 – 3060,51.4583691,5.3920556,"Sporten toegestaan, buitenlocaties open, reserveren verplicht (mei '21)"
+357,Eindhoven Airport,2021 mei,562,280,282,51798,24310,27488,51798,0,0,19,3014,2849,2660 – 3037,51.4583691,5.3920556,"Sporten toegestaan, buitenlocaties open, reserveren verplicht (mei '21)"
+358,Eindhoven Airport,2021 mei,562,280,282,51798,24310,27488,51798,0,0,20,2988,2821,2653 – 2989,51.4583691,5.3920556,"Sporten toegestaan, buitenlocaties open, reserveren verplicht (mei '21)"
+359,Eindhoven Airport,2021 mei,562,280,282,51798,24310,27488,51798,0,0,21,2806,2797,2646 – 2947,51.4583691,5.3920556,"Sporten toegestaan, buitenlocaties open, reserveren verplicht (mei '21)"
+360,Maastricht Aachen Airport,2021 mei,555,272,283,2223,993,1230,2221,1,1,17,3123,2897,2705 – 3088,50.9123207,5.7694951,"Sporten toegestaan, buitenlocaties open, reserveren verplicht (mei '21)"
+361,Maastricht Aachen Airport,2021 mei,555,272,283,2223,993,1230,2221,1,1,18,3000,2869,2677 – 3060,50.9123207,5.7694951,"Sporten toegestaan, buitenlocaties open, reserveren verplicht (mei '21)"
+362,Maastricht Aachen Airport,2021 mei,555,272,283,2223,993,1230,2221,1,1,19,3014,2849,2660 – 3037,50.9123207,5.7694951,"Sporten toegestaan, buitenlocaties open, reserveren verplicht (mei '21)"
+363,Maastricht Aachen Airport,2021 mei,555,272,283,2223,993,1230,2221,1,1,20,2988,2821,2653 – 2989,50.9123207,5.7694951,"Sporten toegestaan, buitenlocaties open, reserveren verplicht (mei '21)"
+364,Maastricht Aachen Airport,2021 mei,555,272,283,2223,993,1230,2221,1,1,21,2806,2797,2646 – 2947,50.9123207,5.7694951,"Sporten toegestaan, buitenlocaties open, reserveren verplicht (mei '21)"
+365,Groningen Airport Eelde,2021 mei,27,10,17,0,0,0,0,0,0,17,3123,2897,2705 – 3088,53.2145858,6.5887355,"Sporten toegestaan, buitenlocaties open, reserveren verplicht (mei '21)"
+366,Groningen Airport Eelde,2021 mei,27,10,17,0,0,0,0,0,0,18,3000,2869,2677 – 3060,53.2145858,6.5887355,"Sporten toegestaan, buitenlocaties open, reserveren verplicht (mei '21)"
+367,Groningen Airport Eelde,2021 mei,27,10,17,0,0,0,0,0,0,19,3014,2849,2660 – 3037,53.2145858,6.5887355,"Sporten toegestaan, buitenlocaties open, reserveren verplicht (mei '21)"
+368,Groningen Airport Eelde,2021 mei,27,10,17,0,0,0,0,0,0,20,2988,2821,2653 – 2989,53.2145858,6.5887355,"Sporten toegestaan, buitenlocaties open, reserveren verplicht (mei '21)"
+369,Groningen Airport Eelde,2021 mei,27,10,17,0,0,0,0,0,0,21,2806,2797,2646 – 2947,53.2145858,6.5887355,"Sporten toegestaan, buitenlocaties open, reserveren verplicht (mei '21)"
+370,Amsterdam Airport Schiphol,2021 juni,19195,9593,9602,1678265,816099,862166,1231479,446786,0,22,3009,2780,2635 – 2925,52.3105386,4.7682744,Samenleving gaat weer open (jun '21)
+371,Amsterdam Airport Schiphol,2021 juni,19195,9593,9602,1678265,816099,862166,1231479,446786,0,23,2883,2762,2617 – 2906,52.3105386,4.7682744,Samenleving gaat weer open (jun '21)
+372,Amsterdam Airport Schiphol,2021 juni,19195,9593,9602,1678265,816099,862166,1231479,446786,0,24,2869,2764,2627 – 2901,52.3105386,4.7682744,Samenleving gaat weer open (jun '21)
+373,Amsterdam Airport Schiphol,2021 juni,19195,9593,9602,1678265,816099,862166,1231479,446786,0,25,2672,2751,2620 – 2882,52.3105386,4.7682744,Samenleving gaat weer open (jun '21)
+374,Rotterdam The Hague Airport,2021 juni,579,289,290,39309,15981,23328,33826,5483,0,22,3009,2780,2635 – 2925,51.9555086,4.4398832,Samenleving gaat weer open (jun '21)
+375,Rotterdam The Hague Airport,2021 juni,579,289,290,39309,15981,23328,33826,5483,0,23,2883,2762,2617 – 2906,51.9555086,4.4398832,Samenleving gaat weer open (jun '21)
+376,Rotterdam The Hague Airport,2021 juni,579,289,290,39309,15981,23328,33826,5483,0,24,2869,2764,2627 – 2901,51.9555086,4.4398832,Samenleving gaat weer open (jun '21)
+377,Rotterdam The Hague Airport,2021 juni,579,289,290,39309,15981,23328,33826,5483,0,25,2672,2751,2620 – 2882,51.9555086,4.4398832,Samenleving gaat weer open (jun '21)
+378,Eindhoven Airport,2021 juni,1428,722,706,147608,65258,82350,142960,4648,0,22,3009,2780,2635 – 2925,51.4583691,5.3920556,Samenleving gaat weer open (jun '21)
+379,Eindhoven Airport,2021 juni,1428,722,706,147608,65258,82350,142960,4648,0,23,2883,2762,2617 – 2906,51.4583691,5.3920556,Samenleving gaat weer open (jun '21)
+380,Eindhoven Airport,2021 juni,1428,722,706,147608,65258,82350,142960,4648,0,24,2869,2764,2627 – 2901,51.4583691,5.3920556,Samenleving gaat weer open (jun '21)
+381,Eindhoven Airport,2021 juni,1428,722,706,147608,65258,82350,142960,4648,0,25,2672,2751,2620 – 2882,51.4583691,5.3920556,Samenleving gaat weer open (jun '21)
+382,Maastricht Aachen Airport,2021 juni,460,226,234,4454,1425,3029,4454,0,0,22,3009,2780,2635 – 2925,50.9123207,5.7694951,Samenleving gaat weer open (jun '21)
+383,Maastricht Aachen Airport,2021 juni,460,226,234,4454,1425,3029,4454,0,0,23,2883,2762,2617 – 2906,50.9123207,5.7694951,Samenleving gaat weer open (jun '21)
+384,Maastricht Aachen Airport,2021 juni,460,226,234,4454,1425,3029,4454,0,0,24,2869,2764,2627 – 2901,50.9123207,5.7694951,Samenleving gaat weer open (jun '21)
+385,Maastricht Aachen Airport,2021 juni,460,226,234,4454,1425,3029,4454,0,0,25,2672,2751,2620 – 2882,50.9123207,5.7694951,Samenleving gaat weer open (jun '21)
+386,Groningen Airport Eelde,2021 juni,39,20,19,694,351,343,694,0,0,22,3009,2780,2635 – 2925,53.2145858,6.5887355,Samenleving gaat weer open (jun '21)
+387,Groningen Airport Eelde,2021 juni,39,20,19,694,351,343,694,0,0,23,2883,2762,2617 – 2906,53.2145858,6.5887355,Samenleving gaat weer open (jun '21)
+388,Groningen Airport Eelde,2021 juni,39,20,19,694,351,343,694,0,0,24,2869,2764,2627 – 2901,53.2145858,6.5887355,Samenleving gaat weer open (jun '21)
+389,Groningen Airport Eelde,2021 juni,39,20,19,694,351,343,694,0,0,25,2672,2751,2620 – 2882,53.2145858,6.5887355,Samenleving gaat weer open (jun '21)
+390,Amsterdam Airport Schiphol,2021 juli,29141,14563,14578,3029951,1378580,1651371,2303289,726662,0,26,2792,2743,2603 – 2883,52.3105386,4.7682744,"Sluiting discotheken en clubs, horeca dicht na 00:00 (jul '21)"
+391,Amsterdam Airport Schiphol,2021 juli,29141,14563,14578,3029951,1378580,1651371,2303289,726662,0,27,2835,2750,2571 – 2929,52.3105386,4.7682744,"Sluiting discotheken en clubs, horeca dicht na 00:00 (jul '21)"
+392,Amsterdam Airport Schiphol,2021 juli,29141,14563,14578,3029951,1378580,1651371,2303289,726662,0,28,2870,2745,2541 – 2949,52.3105386,4.7682744,"Sluiting discotheken en clubs, horeca dicht na 00:00 (jul '21)"
+393,Amsterdam Airport Schiphol,2021 juli,29141,14563,14578,3029951,1378580,1651371,2303289,726662,0,29,2773,2747,2534 – 2960,52.3105386,4.7682744,"Sluiting discotheken en clubs, horeca dicht na 00:00 (jul '21)"
+394,Rotterdam The Hague Airport,2021 juli,1312,666,646,113882,45390,68492,98923,14959,0,26,2792,2743,2603 – 2883,51.9555086,4.4398832,"Sluiting discotheken en clubs, horeca dicht na 00:00 (jul '21)"
+395,Rotterdam The Hague Airport,2021 juli,1312,666,646,113882,45390,68492,98923,14959,0,27,2835,2750,2571 – 2929,51.9555086,4.4398832,"Sluiting discotheken en clubs, horeca dicht na 00:00 (jul '21)"
+396,Rotterdam The Hague Airport,2021 juli,1312,666,646,113882,45390,68492,98923,14959,0,28,2870,2745,2541 – 2949,51.9555086,4.4398832,"Sluiting discotheken en clubs, horeca dicht na 00:00 (jul '21)"
+397,Rotterdam The Hague Airport,2021 juli,1312,666,646,113882,45390,68492,98923,14959,0,29,2773,2747,2534 – 2960,51.9555086,4.4398832,"Sluiting discotheken en clubs, horeca dicht na 00:00 (jul '21)"
+398,Eindhoven Airport,2021 juli,2779,1396,1383,344808,149673,195135,328995,15813,0,26,2792,2743,2603 – 2883,51.4583691,5.3920556,"Sluiting discotheken en clubs, horeca dicht na 00:00 (jul '21)"
+399,Eindhoven Airport,2021 juli,2779,1396,1383,344808,149673,195135,328995,15813,0,27,2835,2750,2571 – 2929,51.4583691,5.3920556,"Sluiting discotheken en clubs, horeca dicht na 00:00 (jul '21)"
+400,Eindhoven Airport,2021 juli,2779,1396,1383,344808,149673,195135,328995,15813,0,28,2870,2745,2541 – 2949,51.4583691,5.3920556,"Sluiting discotheken en clubs, horeca dicht na 00:00 (jul '21)"
+401,Eindhoven Airport,2021 juli,2779,1396,1383,344808,149673,195135,328995,15813,0,29,2773,2747,2534 – 2960,51.4583691,5.3920556,"Sluiting discotheken en clubs, horeca dicht na 00:00 (jul '21)"
+402,Maastricht Aachen Airport,2021 juli,583,295,288,22399,9366,13033,22397,0,2,26,2792,2743,2603 – 2883,50.9123207,5.7694951,"Sluiting discotheken en clubs, horeca dicht na 00:00 (jul '21)"
+403,Maastricht Aachen Airport,2021 juli,583,295,288,22399,9366,13033,22397,0,2,27,2835,2750,2571 – 2929,50.9123207,5.7694951,"Sluiting discotheken en clubs, horeca dicht na 00:00 (jul '21)"
+404,Maastricht Aachen Airport,2021 juli,583,295,288,22399,9366,13033,22397,0,2,28,2870,2745,2541 – 2949,50.9123207,5.7694951,"Sluiting discotheken en clubs, horeca dicht na 00:00 (jul '21)"
+405,Maastricht Aachen Airport,2021 juli,583,295,288,22399,9366,13033,22397,0,2,29,2773,2747,2534 – 2960,50.9123207,5.7694951,"Sluiting discotheken en clubs, horeca dicht na 00:00 (jul '21)"
+406,Groningen Airport Eelde,2021 juli,101,52,49,4119,1626,2493,4119,0,0,26,2792,2743,2603 – 2883,53.2145858,6.5887355,"Sluiting discotheken en clubs, horeca dicht na 00:00 (jul '21)"
+407,Groningen Airport Eelde,2021 juli,101,52,49,4119,1626,2493,4119,0,0,27,2835,2750,2571 – 2929,53.2145858,6.5887355,"Sluiting discotheken en clubs, horeca dicht na 00:00 (jul '21)"
+408,Groningen Airport Eelde,2021 juli,101,52,49,4119,1626,2493,4119,0,0,28,2870,2745,2541 – 2949,53.2145858,6.5887355,"Sluiting discotheken en clubs, horeca dicht na 00:00 (jul '21)"
+409,Groningen Airport Eelde,2021 juli,101,52,49,4119,1626,2493,4119,0,0,29,2773,2747,2534 – 2960,53.2145858,6.5887355,"Sluiting discotheken en clubs, horeca dicht na 00:00 (jul '21)"
+410,Amsterdam Airport Schiphol,2021 augustus,31847,15929,15918,3786973,2002462,1784511,2939403,847570,0,30,2907,2734,2541 – 2926,52.3105386,4.7682744,Invoering coronatoegangsbewijs (aug '21)
+411,Amsterdam Airport Schiphol,2021 augustus,31847,15929,15918,3786973,2002462,1784511,2939403,847570,0,31,2954,2713,2518 – 2908,52.3105386,4.7682744,Invoering coronatoegangsbewijs (aug '21)
+412,Amsterdam Airport Schiphol,2021 augustus,31847,15929,15918,3786973,2002462,1784511,2939403,847570,0,32,2831,2708,2509 – 2907,52.3105386,4.7682744,Invoering coronatoegangsbewijs (aug '21)
+413,Amsterdam Airport Schiphol,2021 augustus,31847,15929,15918,3786973,2002462,1784511,2939403,847570,0,33,2889,2695,2507 – 2883,52.3105386,4.7682744,Invoering coronatoegangsbewijs (aug '21)
+414,Amsterdam Airport Schiphol,2021 augustus,31847,15929,15918,3786973,2002462,1784511,2939403,847570,0,34,2920,2688,2535 – 2841,52.3105386,4.7682744,Invoering coronatoegangsbewijs (aug '21)
+415,Rotterdam The Hague Airport,2021 augustus,1516,749,767,181957,98121,83836,164739,17218,0,30,2907,2734,2541 – 2926,51.9555086,4.4398832,Invoering coronatoegangsbewijs (aug '21)
+416,Rotterdam The Hague Airport,2021 augustus,1516,749,767,181957,98121,83836,164739,17218,0,31,2954,2713,2518 – 2908,51.9555086,4.4398832,Invoering coronatoegangsbewijs (aug '21)
+417,Rotterdam The Hague Airport,2021 augustus,1516,749,767,181957,98121,83836,164739,17218,0,32,2831,2708,2509 – 2907,51.9555086,4.4398832,Invoering coronatoegangsbewijs (aug '21)
+418,Rotterdam The Hague Airport,2021 augustus,1516,749,767,181957,98121,83836,164739,17218,0,33,2889,2695,2507 – 2883,51.9555086,4.4398832,Invoering coronatoegangsbewijs (aug '21)
+419,Rotterdam The Hague Airport,2021 augustus,1516,749,767,181957,98121,83836,164739,17218,0,34,2920,2688,2535 – 2841,51.9555086,4.4398832,Invoering coronatoegangsbewijs (aug '21)
+420,Eindhoven Airport,2021 augustus,3245,1616,1629,481576,252858,228718,460773,20803,0,30,2907,2734,2541 – 2926,51.4583691,5.3920556,Invoering coronatoegangsbewijs (aug '21)
+421,Eindhoven Airport,2021 augustus,3245,1616,1629,481576,252858,228718,460773,20803,0,31,2954,2713,2518 – 2908,51.4583691,5.3920556,Invoering coronatoegangsbewijs (aug '21)
+422,Eindhoven Airport,2021 augustus,3245,1616,1629,481576,252858,228718,460773,20803,0,32,2831,2708,2509 – 2907,51.4583691,5.3920556,Invoering coronatoegangsbewijs (aug '21)
+423,Eindhoven Airport,2021 augustus,3245,1616,1629,481576,252858,228718,460773,20803,0,33,2889,2695,2507 – 2883,51.4583691,5.3920556,Invoering coronatoegangsbewijs (aug '21)
+424,Eindhoven Airport,2021 augustus,3245,1616,1629,481576,252858,228718,460773,20803,0,34,2920,2688,2535 – 2841,51.4583691,5.3920556,Invoering coronatoegangsbewijs (aug '21)
+425,Maastricht Aachen Airport,2021 augustus,600,296,304,24199,13550,10649,24199,0,0,30,2907,2734,2541 – 2926,50.9123207,5.7694951,Invoering coronatoegangsbewijs (aug '21)
+426,Maastricht Aachen Airport,2021 augustus,600,296,304,24199,13550,10649,24199,0,0,31,2954,2713,2518 – 2908,50.9123207,5.7694951,Invoering coronatoegangsbewijs (aug '21)
+427,Maastricht Aachen Airport,2021 augustus,600,296,304,24199,13550,10649,24199,0,0,32,2831,2708,2509 – 2907,50.9123207,5.7694951,Invoering coronatoegangsbewijs (aug '21)
+428,Maastricht Aachen Airport,2021 augustus,600,296,304,24199,13550,10649,24199,0,0,33,2889,2695,2507 – 2883,50.9123207,5.7694951,Invoering coronatoegangsbewijs (aug '21)
+429,Maastricht Aachen Airport,2021 augustus,600,296,304,24199,13550,10649,24199,0,0,34,2920,2688,2535 – 2841,50.9123207,5.7694951,Invoering coronatoegangsbewijs (aug '21)
+430,Groningen Airport Eelde,2021 augustus,74,34,40,4475,2002,2473,4475,0,0,30,2907,2734,2541 – 2926,53.2145858,6.5887355,Invoering coronatoegangsbewijs (aug '21)
+431,Groningen Airport Eelde,2021 augustus,74,34,40,4475,2002,2473,4475,0,0,31,2954,2713,2518 – 2908,53.2145858,6.5887355,Invoering coronatoegangsbewijs (aug '21)
+432,Groningen Airport Eelde,2021 augustus,74,34,40,4475,2002,2473,4475,0,0,32,2831,2708,2509 – 2907,53.2145858,6.5887355,Invoering coronatoegangsbewijs (aug '21)
+433,Groningen Airport Eelde,2021 augustus,74,34,40,4475,2002,2473,4475,0,0,33,2889,2695,2507 – 2883,53.2145858,6.5887355,Invoering coronatoegangsbewijs (aug '21)
+434,Groningen Airport Eelde,2021 augustus,74,34,40,4475,2002,2473,4475,0,0,34,2920,2688,2535 – 2841,53.2145858,6.5887355,Invoering coronatoegangsbewijs (aug '21)
