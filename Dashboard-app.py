@@ -140,26 +140,19 @@ st.plotly_chart(fig4)
 data1 = pd.read_csv('data_streamlit.csv')
 fig5 = px.scatter(data1, x = "Totaal aantal overledenen", y = "Totaal aantal vluchten", 
                   hover_name = "Periode",title = 'Nederlandse luchthavens en sterftecijfers 2020-2021', size = "Totaal aantal passagiers", 
-                  color="Luchthaven", opacity = 0.5, size_max=60, trendline="ols", trendline_scope='overall')
-                  
-#                   size = "Totaal aantal passagiers", 
-#                   hover_name = "Periode",color = "Luchthaven",  opacity = 0.5, size_max = 60,trendline = 'ols')
-
-#, title = 'Nederlandse luchthavens en sterftecijfers 2020-2021')
-                  
-                  #trendline_scope = 'overall', 
+                  color="Luchthaven", opacity = 0.5, size_max=60, trendline="ols")
   
 
 #Dropdown buttons
-#dropdown_buttons = [{'label':"Luchthavens NL", 'method':"update", 'args':[{"visible":[True, True, True, True, True]}]},
-#                     {'label':"Amsterdam Airport Schiphol", 'method':"update", 'args':[{"visible":[True, False, False, False, False]}]},
-#                     {'label':"Rotterdam The Hague Airport", 'method':"update", 'args':[{"visible":[False, True, False, False, False]}]},
-#                     {'label':"Eindhoven Airport", 'method':"update", 'args':[{"visible":[False, False, True, False, False]}]}, 
-#                     {'label':"Maastricht Aachen Airport", 'method':"update", 'args':[{"visible":[False, False, False, True, False]}]}, 
-#                     {'label':"Groningen Airport Eelde", 'method':"update", 'args':[{"visible":[False, False, False, False, True]}]}]
+dropdown_buttons = [{'label':"Luchthavens NL", 'method':"update", 'args':[{"visible":[True, True, True, True, True]}]},
+                    {'label':"Amsterdam Airport Schiphol", 'method':"update", 'args':[{"visible":[True, False, False, False, False]}]},
+                    {'label':"Rotterdam The Hague Airport", 'method':"update", 'args':[{"visible":[False, True, False, False, False]}]},
+                    {'label':"Eindhoven Airport", 'method':"update", 'args':[{"visible":[False, False, True, False, False]}]}, 
+                    {'label':"Maastricht Aachen Airport", 'method':"update", 'args':[{"visible":[False, False, False, True, False]}]}, 
+                    {'label':"Groningen Airport Eelde", 'method':"update", 'args':[{"visible":[False, False, False, False, True]}]}]
 
 # #Update de figuur
-# fig5.update_layout({'updatemenus':[{'active':0, 'buttons':dropdown_buttons}]})
+fig5.update_layout({'updatemenus':[{'active':0, 'buttons':dropdown_buttons}]})
 
 #Laat de figuur zien
 st.plotly_chart(fig5)
