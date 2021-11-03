@@ -139,9 +139,12 @@ elif nav == "Spreidingsdiagram":
 #-----------------------------------------------------------------------------
 
 elif nav == "Correlatie Matrix":
+  
+  y = st.radio(label="", options=["Amsterdam Airport Schiphol", "Rotterdam The Hague Airport", "Eindhoven Airport", "Maastricht Aachen Airport", "Groningen Airport Eelde"])
+  
   #Code voor correlatie matrix 
   data1 = pd.read_csv('data_streamlit.csv')
-  data2 = data1[data1['Luchthaven'] == 'Amsterdam Airport Schiphol']
+  data2 = data1[data1['Luchthaven'] == y]
   data_corr = data2[['Totaal aantal vluchten', 
                      'Totaal aantal passagiers', 
                      'Totaal aantal overledenen', 
