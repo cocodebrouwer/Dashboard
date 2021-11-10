@@ -240,6 +240,7 @@ st.markdown("""
 ----------
 \n
 Bronnenlijst: 
-- CBS Statline. (z.d.). CBS StatLine. Geraadpleegd op 3 november 2021, van https://opendata.cbs.nl/#/CBS/nl/dataset/37478hvv/table
-- Tijdlijn van maatregelen voor bestrijding COVID-19. (z.d.). RIVM. Geraadpleegd op 3 november 2021, van https://www.rivm.nl/gedragsonderzoek/tijdlijn-maatregelen-covid
+- CBS Statline. (z.d.). CBS StatLine. Geraadpleegd op 1 november 2021, van https://opendata.cbs.nl/#/CBS/nl/dataset/37478hvv/table
+- Centraal Bureau voor de Statistiek. (2021, 5 november). Gezondheid in coronatijd. Geraadpleegd op 1 november 2021, van https://www.cbs.nl/nl-nl/visualisaties/welvaart-in-coronatijd/gezondheid-in-coronatijd
+- Tijdlijn van maatregelen voor bestrijding COVID-19. (z.d.). RIVM. Geraadpleegd op 1 november 2021, van https://www.rivm.nl/gedragsonderzoek/tijdlijn-maatregelen-covid
 """) 
