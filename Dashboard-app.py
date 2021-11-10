@@ -29,7 +29,7 @@ Veel plezier met het bekijken van ons interactieve Dashboard en het uitproberen 
 #Kies inspectie
 st.sidebar.title("Kies inspectie")
 nav = st.sidebar.radio(label = "", 
-                       options = ["Histogram", "Boxplot", "Spreidingsdiagram", "Correlatie Matrix", "Kaart"])
+                       options = ["Histogram", "Boxplot", "Correlatie Matrix", "Spreidingsdiagram", "Kaart"])
 
 #--------------------
 #Code voor histogram met keuze menu
@@ -117,6 +117,39 @@ elif nav == "Boxplot":
   st.plotly_chart(fig3)
 
 #--------------------
+#Code voor correlatie matrix met keuze menu
+elif nav == "Correlatie Matrix":
+  
+  #Tekst toevoegen
+  st.markdown("""
+  In de correlatie matrix wordt het verband tussen het aantal vluchten, passagiers en (verwacht) overledenen in 2020 en 2021 weergeven. 
+  Te zien is een negatief verband tussen het aantal overledenen en het aantal vluchten en passagiers. 
+  Dit negatieve verband kan ook verklaard worden aan de hand van COVID-19 aangezien tijdens de pandemie minder mensen gebruik hebben gemaakt van de luchthavens. 
+  \n
+  Met behulp van het keuzemenu kan de luchthaven geselecteerd worden. 
+  """)
+  
+  y = st.radio(label = "Kies gewenste luchthaven:", 
+               options = ["Amsterdam Airport Schiphol", "Rotterdam The Hague Airport", "Eindhoven Airport", "Maastricht Aachen Airport", "Groningen Airport Eelde"])
+  
+  data1 = pd.read_csv('data_streamlit.csv')
+  data2 = data1[data1['Luchthaven'] == y]
+  data_corr = data2[['Totaal aantal vluchten', 
+                     'Totaal aantal passagiers', 
+                     'Totaal aantal overledenen', 
+                     'Verwacht aantal overledenen']]
+  corrMatrix = data_corr.corr()
+  fig6, ax = plt.subplots()
+  sns.heatmap(corrMatrix, 
+              annot = True, 
+              cmap = 'Purples', 
+              linewidths = 2, 
+              linecolor = 'white', 
+              square = True)
+  plt.title(y + ' en sterftecijfers 2020-2021')
+  st.pyplot(fig6)
+
+#--------------------
 #Code voor spreidingsdiagram met keuze menu
 elif nav == "Spreidingsdiagram":
   
@@ -161,39 +194,6 @@ elif nav == "Spreidingsdiagram":
 
   #Laat de figuur zien
   st.plotly_chart(fig5)
-
-#--------------------
-#Code voor correlatie matrix met keuze menu
-elif nav == "Correlatie Matrix":
-  
-  #Tekst toevoegen
-  st.markdown("""
-  In de correlatie matrix wordt het verband tussen het aantal vluchten, passagiers en (verwacht) overledenen in 2020 en 2021 weergeven. 
-  Te zien is een negatief verband tussen het aantal overledenen en het aantal vluchten en passagiers. 
-  Dit negatieve verband kan ook verklaard worden aan de hand van COVID-19 aangezien tijdens de pandemie minder mensen gebruik hebben gemaakt van de luchthavens. 
-  \n
-  Met behulp van het keuzemenu kan de luchthaven geselecteerd worden. 
-  """)
-  
-  y = st.radio(label = "Kies gewenste luchthaven:", 
-               options = ["Amsterdam Airport Schiphol", "Rotterdam The Hague Airport", "Eindhoven Airport", "Maastricht Aachen Airport", "Groningen Airport Eelde"])
-  
-  data1 = pd.read_csv('data_streamlit.csv')
-  data2 = data1[data1['Luchthaven'] == y]
-  data_corr = data2[['Totaal aantal vluchten', 
-                     'Totaal aantal passagiers', 
-                     'Totaal aantal overledenen', 
-                     'Verwacht aantal overledenen']]
-  corrMatrix = data_corr.corr()
-  fig6, ax = plt.subplots()
-  sns.heatmap(corrMatrix, 
-              annot = True, 
-              cmap = 'Purples', 
-              linewidths = 2, 
-              linecolor = 'white', 
-              square = True)
-  plt.title(y + ' en sterftecijfers 2020-2021')
-  st.pyplot(fig6)
 
 #--------------------
 #Code voor kaart
